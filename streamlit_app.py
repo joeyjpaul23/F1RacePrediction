@@ -80,19 +80,24 @@ def load_models():
         st.error(f"Error loading models: {e}")
         return None, None, None
 
-# Sample data
+# Sample data - 2025 F1 Season
 SAMPLE_DRIVERS = [
     "Max Verstappen", "Lewis Hamilton", "Charles Leclerc", "Lando Norris",
     "Carlos Sainz", "George Russell", "Fernando Alonso", "Oscar Piastri",
     "Lance Stroll", "Pierre Gasly", "Esteban Ocon", "Alexander Albon",
-    "Valtteri Bottas", "Nico Hulkenberg", "Daniel Ricciardo", "Yuki Tsunoda",
-    "Zhou Guanyu", "Kevin Magnussen", "Logan Sargeant", "Nyck de Vries"
+    "Kimi Antonelli", "Nico Hulkenberg", "Liam Lawson", "Yuki Tsunoda",
+    "Gabriel Bortoleto", "Franco Colapinto", "Oliver Bearman", "Isack Hadjar"
 ]
 
 SAMPLE_TRACKS = [
-    "Monaco", "Silverstone", "Monza", "Spa-Francorchamps", "Suzuka",
-    "Interlagos", "Red Bull Ring", "Hungaroring", "Circuit de Catalunya",
-    "Albert Park", "Jeddah Corniche Circuit", "Baku City Circuit"
+    "Bahrain International Circuit", "Jeddah Corniche Circuit", "Albert Park",
+    "Suzuka International Racing Course", "Shanghai International Circuit",
+    "Miami International Autodrome", "Imola Circuit", "Circuit de Monaco",
+    "Circuit de Barcelona-Catalunya", "Red Bull Ring", "Silverstone Circuit",
+    "Hungaroring", "Circuit de Spa-Francorchamps", "Circuit Zandvoort",
+    "Monza Circuit", "Baku City Circuit", "Marina Bay Street Circuit",
+    "Circuit of the Americas", "Autódromo Hermanos Rodríguez",
+    "Interlagos Circuit", "Las Vegas Strip Circuit", "Yas Marina Circuit"
 ]
 
 def main():
