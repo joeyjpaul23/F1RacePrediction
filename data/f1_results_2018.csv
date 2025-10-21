@@ -1,0 +1,421 @@
+Race_DriverNumber,Race_BroadcastName,Race_Abbreviation,Race_DriverId,Race_TeamName,Race_TeamId,Race_FirstName,Race_LastName,Race_FullName,Race_Position,Race_ClassifiedPosition,Race_GridPosition,Race_Time,Race_Status,Race_Points,Race_Laps,Qual_Position,Qual_Q1,Qual_Q2,Qual_Q3,Year,Round,EventName
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,3.0,0 days 01:29:33.283000,Finished,25.0,58.0,3.0,0 days 00:01:23.348000,0 days 00:01:21.944000,0 days 00:01:21.838000,2018,1,Australian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,0 days 00:00:05.036000,Finished,18.0,58.0,1.0,0 days 00:01:22.824000,0 days 00:01:22.051000,0 days 00:01:21.164000,2018,1,Australian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,2.0,0 days 00:00:06.309000,Finished,15.0,58.0,2.0,0 days 00:01:23.096000,0 days 00:01:22.507000,0 days 00:01:21.828000,2018,1,Australian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,8.0,0 days 00:00:07.069000,Finished,12.0,58.0,5.0,0 days 00:01:23.494000,0 days 00:01:22.897000,0 days 00:01:22.152000,2018,1,Australian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,5.0,5,10.0,0 days 00:00:27.886000,Finished,10.0,58.0,11.0,0 days 00:01:23.597000,0 days 00:01:23.692000,,2018,1,Australian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,6.0,6,4.0,0 days 00:00:28.945000,Finished,8.0,58.0,4.0,0 days 00:01:23.483000,0 days 00:01:22.416000,0 days 00:01:21.879000,2018,1,Australian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,7.0,0 days 00:00:32.671000,Finished,6.0,58.0,8.0,0 days 00:01:23.782000,0 days 00:01:23.544000,0 days 00:01:23.532000,2018,1,Australian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,8.0,8,15.0,0 days 00:00:34.339000,Finished,4.0,58.0,10.0,0 days 00:01:23.686000,0 days 00:01:22.089000,,2018,1,Australian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,9.0,9,11.0,0 days 00:00:34.921000,Finished,2.0,58.0,12.0,0 days 00:01:24.073000,0 days 00:01:23.853000,,2018,1,Australian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,10.0,10,9.0,0 days 00:00:45.722000,Finished,1.0,58.0,9.0,0 days 00:01:23.529000,0 days 00:01:23.061000,0 days 00:01:23.577000,2018,1,Australian Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,11.0,11,12.0,0 days 00:00:46.817000,Finished,0.0,58.0,13.0,0 days 00:01:24.344000,0 days 00:01:24.005000,,2018,1,Australian Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,12.0,12,14.0,0 days 00:01:00.278000,Finished,0.0,58.0,15.0,0 days 00:01:24.503000,0 days 00:01:24.786000,,2018,1,Australian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,13.0,13,18.0,0 days 00:01:15.759000,Finished,0.0,58.0,18.0,0 days 00:01:24.636000,,,2018,1,Australian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,13.0,0 days 00:01:18.288000,Finished,0.0,58.0,14.0,0 days 00:01:24.464000,0 days 00:01:24.230000,,2018,1,Australian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,15.0,15,16.0,,+1 Lap,0.0,57.0,16.0,0 days 00:01:24.532000,,,2018,1,Australian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,R,6.0,,Wheel,0.0,24.0,7.0,0 days 00:01:23.671000,0 days 00:01:23.468000,0 days 00:01:23.339000,2018,1,Australian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,17.0,R,5.0,,Wheel,0.0,22.0,6.0,0 days 00:01:23.909000,0 days 00:01:23.300000,0 days 00:01:23.187000,2018,1,Australian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,18.0,R,20.0,,Engine,0.0,13.0,20.0,0 days 00:01:25.295000,,,2018,1,Australian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,19.0,R,17.0,,Steering,0.0,5.0,17.0,0 days 00:01:24.556000,,,2018,1,Australian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,20.0,R,19.0,,Brakes,0.0,4.0,19.0,0 days 00:01:24.922000,,,2018,1,Australian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,0 days 01:32:01.940000,Finished,25.0,57.0,1.0,0 days 00:01:29.060000,0 days 00:01:28.341000,0 days 00:01:27.958000,2018,2,Bahrain Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,3.0,0 days 00:00:00.699000,Finished,18.0,57.0,3.0,0 days 00:01:29.275000,0 days 00:01:28.794000,0 days 00:01:28.124000,2018,2,Bahrain Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,9.0,0 days 00:00:06.512000,Finished,15.0,57.0,4.0,0 days 00:01:29.396000,0 days 00:01:28.458000,0 days 00:01:28.220000,2018,2,Bahrain Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,4.0,4,5.0,0 days 00:01:02.234000,Finished,12.0,57.0,6.0,0 days 00:01:30.121000,0 days 00:01:29.836000,0 days 00:01:29.329000,2018,2,Bahrain Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,5.0,5,6.0,0 days 00:01:15.046000,Finished,10.0,57.0,7.0,0 days 00:01:29.594000,0 days 00:01:29.623000,0 days 00:01:29.358000,2018,2,Bahrain Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,0 days 00:01:39.024000,Finished,8.0,57.0,8.0,0 days 00:01:30.260000,0 days 00:01:29.187000,0 days 00:01:29.570000,2018,2,Bahrain Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,13.0,,+1 Lap,6.0,56.0,13.0,0 days 00:01:30.530000,0 days 00:01:30.212000,,2018,2,Bahrain Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,8.0,8,14.0,,+1 Lap,4.0,56.0,14.0,0 days 00:01:30.479000,0 days 00:01:30.525000,,2018,2,Bahrain Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,9.0,9,17.0,,+1 Lap,2.0,56.0,17.0,0 days 00:01:31.063000,,,2018,2,Bahrain Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,10.0,10,8.0,,+1 Lap,1.0,56.0,9.0,0 days 00:01:30.338000,0 days 00:01:30.009000,0 days 00:01:29.874000,2018,2,Bahrain Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,11.0,11,10.0,,+1 Lap,0.0,56.0,10.0,0 days 00:01:29.893000,0 days 00:01:29.802000,0 days 00:01:29.986000,2018,2,Bahrain Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,12.0,12,19.0,,+1 Lap,0.0,56.0,19.0,0 days 00:01:31.420000,,,2018,2,Bahrain Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,16.0,,+1 Lap,0.0,56.0,16.0,0 days 00:01:30.530000,,,2018,2,Bahrain Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,20.0,,+1 Lap,0.0,56.0,20.0,0 days 00:01:31.503000,,,2018,2,Bahrain Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,18.0,,+1 Lap,0.0,56.0,18.0,0 days 00:01:31.414000,,,2018,2,Bahrain Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,16.0,16,12.0,,+1 Lap,0.0,56.0,12.0,0 days 00:01:30.218000,0 days 00:01:30.156000,,2018,2,Bahrain Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,17.0,17,11.0,,+1 Lap,0.0,56.0,11.0,0 days 00:01:30.412000,0 days 00:01:30.105000,,2018,2,Bahrain Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,18.0,R,2.0,,Wheel,0.0,35.0,2.0,0 days 00:01:28.951000,0 days 00:01:28.515000,0 days 00:01:28.101000,2018,2,Bahrain Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,19.0,R,15.0,,Puncture,0.0,3.0,15.0,0 days 00:01:29.374000,,,2018,2,Bahrain Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,20.0,R,4.0,,Electrical,0.0,1.0,5.0,0 days 00:01:29.552000,0 days 00:01:28.962000,0 days 00:01:28.398000,2018,2,Bahrain Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,1.0,1,6.0,0 days 01:35:36.380000,Finished,25.0,56.0,6.0,0 days 00:01:33.877000,0 days 00:01:32.688000,0 days 00:01:31.948000,2018,3,Chinese Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,3.0,0 days 00:00:08.894000,Finished,18.0,56.0,3.0,0 days 00:01:32.921000,0 days 00:01:32.063000,0 days 00:01:31.625000,2018,3,Chinese Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,2.0,0 days 00:00:09.637000,Finished,15.0,56.0,2.0,0 days 00:01:32.474000,0 days 00:01:32.286000,0 days 00:01:31.182000,2018,3,Chinese Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,4.0,0 days 00:00:16.985000,Finished,12.0,56.0,4.0,0 days 00:01:33.283000,0 days 00:01:31.914000,0 days 00:01:31.675000,2018,3,Chinese Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,5.0,5,5.0,0 days 00:00:20.436000,Finished,10.0,56.0,5.0,0 days 00:01:32.932000,0 days 00:01:32.809000,0 days 00:01:31.796000,2018,3,Chinese Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,0 days 00:00:21.052000,Finished,8.0,56.0,7.0,0 days 00:01:33.545000,0 days 00:01:32.494000,0 days 00:01:32.532000,2018,3,Chinese Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,13.0,0 days 00:00:30.639000,Finished,6.0,56.0,13.0,0 days 00:01:33.428000,0 days 00:01:33.232000,,2018,3,Chinese Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,8.0,8,1.0,0 days 00:00:35.286000,Finished,4.0,56.0,1.0,0 days 00:01:32.171000,0 days 00:01:32.385000,0 days 00:01:31.095000,2018,3,Chinese Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,9.0,9,9.0,0 days 00:00:35.763000,Finished,2.0,56.0,9.0,0 days 00:01:33.315000,0 days 00:01:32.970000,0 days 00:01:32.819000,2018,3,Chinese Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,10.0,10,11.0,0 days 00:00:39.594000,Finished,1.0,56.0,11.0,0 days 00:01:33.359000,0 days 00:01:32.986000,,2018,3,Chinese Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,11.0,11,12.0,0 days 00:00:44.050000,Finished,0.0,56.0,12.0,0 days 00:01:33.585000,0 days 00:01:33.057000,,2018,3,Chinese Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,12.0,12,8.0,0 days 00:00:44.725000,Finished,0.0,56.0,8.0,0 days 00:01:33.464000,0 days 00:01:32.931000,0 days 00:01:32.758000,2018,3,Chinese Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,13.0,13,14.0,0 days 00:00:49.373000,Finished,0.0,56.0,14.0,0 days 00:01:33.824000,0 days 00:01:33.505000,,2018,3,Chinese Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,18.0,0 days 00:00:55.490000,Finished,0.0,56.0,18.0,0 days 00:01:34.285000,,,2018,3,Chinese Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,16.0,0 days 00:00:58.241000,Finished,0.0,56.0,16.0,0 days 00:01:34.062000,,,2018,3,Chinese Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,16,20.0,0 days 00:01:02.604000,Finished,0.0,56.0,20.0,0 days 00:01:34.914000,,,2018,3,Chinese Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,17.0,17,10.0,0 days 00:01:05.296000,Finished,0.0,56.0,10.0,0 days 00:01:33.238000,0 days 00:01:32.524000,0 days 00:01:32.855000,2018,3,Chinese Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,18.0,18,17.0,0 days 00:01:06.330000,Finished,0.0,56.0,17.0,0 days 00:01:34.101000,,,2018,3,Chinese Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,19.0,19,19.0,0 days 00:01:22.575000,Finished,0.0,56.0,19.0,0 days 00:01:34.454000,,,2018,3,Chinese Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,20.0,20,15.0,,Collision damage,0.0,51.0,15.0,0 days 00:01:34.013000,0 days 00:01:33.795000,,2018,3,Chinese Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,0 days 01:43:44.291000,Finished,25.0,51.0,2.0,0 days 00:01:42.693000,0 days 00:01:42.676000,0 days 00:01:41.677000,2018,4,Azerbaijan Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,6.0,0 days 00:00:02.460000,Finished,18.0,51.0,6.0,0 days 00:01:42.538000,0 days 00:01:42.510000,0 days 00:01:42.490000,2018,4,Azerbaijan Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,3.0,3,8.0,0 days 00:00:04.024000,Finished,15.0,51.0,8.0,0 days 00:01:43.992000,0 days 00:01:43.366000,0 days 00:01:42.547000,2018,4,Azerbaijan Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,1.0,0 days 00:00:05.329000,Finished,12.0,51.0,1.0,0 days 00:01:42.762000,0 days 00:01:43.015000,0 days 00:01:41.498000,2018,4,Azerbaijan Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,5.0,5,9.0,0 days 00:00:07.515000,Finished,10.0,51.0,10.0,0 days 00:01:43.426000,0 days 00:01:43.464000,0 days 00:01:43.351000,2018,4,Azerbaijan Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,6.0,6,13.0,0 days 00:00:09.158000,Finished,8.0,51.0,14.0,0 days 00:01:43.752000,0 days 00:01:44.074000,,2018,4,Azerbaijan Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,12.0,0 days 00:00:10.931000,Finished,6.0,51.0,13.0,0 days 00:01:44.010000,0 days 00:01:44.019000,,2018,4,Azerbaijan Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,8.0,8,10.0,0 days 00:00:12.546000,Finished,4.0,51.0,11.0,0 days 00:01:44.359000,0 days 00:01:43.585000,,2018,4,Azerbaijan Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,9.0,9,16.0,0 days 00:00:14.152000,Finished,2.0,51.0,16.0,0 days 00:01:44.489000,,,2018,4,Azerbaijan Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,10.0,10,19.0,0 days 00:00:18.030000,Finished,1.0,51.0,19.0,0 days 00:01:57.354000,,,2018,4,Azerbaijan Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,11.0,11,18.0,0 days 00:00:18.512000,Finished,0.0,51.0,18.0,0 days 00:01:45.541000,,,2018,4,Azerbaijan Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,12.0,12,17.0,0 days 00:00:24.720000,Finished,0.0,51.0,17.0,0 days 00:01:44.496000,,,2018,4,Azerbaijan Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,15.0,0 days 00:00:40.663000,Finished,0.0,51.0,15.0,0 days 00:01:43.674000,0 days 00:01:44.759000,,2018,4,Azerbaijan Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,14.0,R,3.0,,Puncture,0.0,48.0,3.0,0 days 00:01:43.355000,0 days 00:01:42.679000,0 days 00:01:41.837000,2018,4,Azerbaijan Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,15.0,R,20.0,,Accident,0.0,42.0,20.0,,,,2018,4,Azerbaijan Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,16.0,R,5.0,,Collision,0.0,39.0,5.0,0 days 00:01:42.642000,0 days 00:01:42.901000,0 days 00:01:41.994000,2018,4,Azerbaijan Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,17.0,R,4.0,,Collision,0.0,39.0,4.0,0 days 00:01:42.857000,0 days 00:01:43.482000,0 days 00:01:41.911000,2018,4,Azerbaijan Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,18.0,R,14.0,,Accident,0.0,10.0,9.0,0 days 00:01:43.746000,0 days 00:01:43.232000,0 days 00:01:43.066000,2018,4,Azerbaijan Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,19.0,R,7.0,,Collision,0.0,0.0,7.0,0 days 00:01:43.021000,0 days 00:01:42.967000,0 days 00:01:42.523000,2018,4,Azerbaijan Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,20.0,R,11.0,,Collision,0.0,0.0,12.0,0 days 00:01:44.261000,0 days 00:01:43.886000,,2018,4,Azerbaijan Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:35:29.972000,Finished,25.0,66.0,1.0,0 days 00:01:17.633000,0 days 00:01:17.166000,0 days 00:01:16.173000,2018,5,Spanish Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,0 days 00:00:20.593000,Finished,18.0,66.0,2.0,0 days 00:01:17.674000,0 days 00:01:17.111000,0 days 00:01:16.213000,2018,5,Spanish Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,5.0,0 days 00:00:26.873000,Finished,15.0,66.0,5.0,0 days 00:01:17.411000,0 days 00:01:17.266000,0 days 00:01:16.816000,2018,5,Spanish Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,3.0,0 days 00:00:27.584000,Finished,12.0,66.0,3.0,0 days 00:01:17.031000,0 days 00:01:16.802000,0 days 00:01:16.305000,2018,5,Spanish Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,6.0,0 days 00:00:50.058000,Finished,10.0,66.0,6.0,0 days 00:01:17.623000,0 days 00:01:17.638000,0 days 00:01:16.818000,2018,5,Spanish Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,6.0,6,7.0,,+1 Lap,8.0,65.0,7.0,0 days 00:01:18.169000,0 days 00:01:17.618000,0 days 00:01:17.676000,2018,5,Spanish Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,7.0,7,9.0,,+1 Lap,6.0,65.0,9.0,0 days 00:01:18.480000,0 days 00:01:17.803000,0 days 00:01:17.790000,2018,5,Spanish Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,8.0,,+1 Lap,4.0,65.0,8.0,0 days 00:01:18.276000,0 days 00:01:18.100000,0 days 00:01:17.721000,2018,5,Spanish Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,9.0,9,15.0,,+2 Laps,2.0,64.0,15.0,0 days 00:01:18.740000,0 days 00:01:19.098000,,2018,5,Spanish Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,14.0,,+2 Laps,1.0,64.0,14.0,0 days 00:01:18.661000,0 days 00:01:18.910000,,2018,5,Spanish Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,11.0,11,18.0,,+2 Laps,0.0,64.0,19.0,0 days 00:01:20.225000,,,2018,5,Spanish Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,12.0,12,20.0,,+2 Laps,0.0,64.0,20.0,,,,2018,5,Spanish Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,17.0,,+2 Laps,0.0,64.0,17.0,0 days 00:01:19.493000,,,2018,5,Spanish Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,14.0,14,19.0,,+3 Laps,0.0,63.0,18.0,0 days 00:01:19.695000,,,2018,5,Spanish Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,15.0,R,11.0,,Gearbox,0.0,45.0,11.0,0 days 00:01:18.885000,0 days 00:01:18.323000,,2018,5,Spanish Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,16.0,R,13.0,,Oil leak,0.0,38.0,13.0,0 days 00:01:18.813000,0 days 00:01:18.696000,,2018,5,Spanish Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,17.0,R,4.0,,Turbo,0.0,25.0,4.0,0 days 00:01:17.483000,0 days 00:01:17.071000,0 days 00:01:16.612000,2018,5,Spanish Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,18.0,R,10.0,,Collision,0.0,0.0,10.0,0 days 00:01:18.305000,0 days 00:01:17.699000,0 days 00:01:17.835000,2018,5,Spanish Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,19.0,R,12.0,,Collision,0.0,0.0,12.0,0 days 00:01:18.550000,0 days 00:01:18.463000,,2018,5,Spanish Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,20.0,R,16.0,,Collision,0.0,0.0,16.0,0 days 00:01:18.923000,,,2018,5,Spanish Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,1.0,1,1.0,0 days 01:42:54.807000,Finished,25.0,78.0,1.0,0 days 00:01:12.013000,0 days 00:01:11.278000,0 days 00:01:10.810000,2018,6,Monaco Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,2.0,0 days 00:00:07.336000,Finished,18.0,78.0,2.0,0 days 00:01:12.415000,0 days 00:01:11.518000,0 days 00:01:11.039000,2018,6,Monaco Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,3.0,0 days 00:00:17.013000,Finished,15.0,78.0,3.0,0 days 00:01:12.460000,0 days 00:01:11.584000,0 days 00:01:11.232000,2018,6,Monaco Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,4.0,0 days 00:00:18.127000,Finished,12.0,78.0,4.0,0 days 00:01:12.639000,0 days 00:01:11.391000,0 days 00:01:11.266000,2018,6,Monaco Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,5.0,0 days 00:00:18.822000,Finished,10.0,78.0,5.0,0 days 00:01:12.434000,0 days 00:01:12.002000,0 days 00:01:11.441000,2018,6,Monaco Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,6.0,6,6.0,0 days 00:00:23.667000,Finished,8.0,78.0,6.0,0 days 00:01:13.028000,0 days 00:01:12.188000,0 days 00:01:12.061000,2018,6,Monaco Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,7.0,7,10.0,0 days 00:00:24.331000,Finished,6.0,78.0,10.0,0 days 00:01:12.941000,0 days 00:01:12.313000,0 days 00:01:12.221000,2018,6,Monaco Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,8.0,8,11.0,0 days 00:00:24.839000,Finished,4.0,78.0,11.0,0 days 00:01:13.065000,0 days 00:01:12.411000,,2018,6,Monaco Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,9.0,9,20.0,0 days 00:00:25.317000,Finished,2.0,78.0,20.0,,,,2018,6,Monaco Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,10.0,10,8.0,0 days 00:01:09.013000,Finished,1.0,78.0,8.0,0 days 00:01:12.950000,0 days 00:01:12.286000,0 days 00:01:12.130000,2018,6,Monaco Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,11.0,11,16.0,0 days 00:01:09.864000,Finished,0.0,78.0,17.0,0 days 00:01:13.265000,,,2018,6,Monaco Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,12.0,12,9.0,0 days 00:01:10.461000,Finished,0.0,78.0,9.0,0 days 00:01:12.848000,0 days 00:01:12.194000,0 days 00:01:12.154000,2018,6,Monaco Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,19.0,0 days 00:01:14.823000,Finished,0.0,78.0,19.0,0 days 00:01:13.393000,,,2018,6,Monaco Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,14.0,14,12.0,,+1 Lap,0.0,77.0,12.0,0 days 00:01:12.463000,0 days 00:01:12.440000,,2018,6,Monaco Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,15.0,15,18.0,,+1 Lap,0.0,77.0,15.0,0 days 00:01:12.930000,0 days 00:01:12.728000,,2018,6,Monaco Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,16.0,16,13.0,,+1 Lap,0.0,77.0,13.0,0 days 00:01:12.706000,0 days 00:01:12.521000,,2018,6,Monaco Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,17.0,,+2 Laps,0.0,76.0,18.0,0 days 00:01:13.323000,,,2018,6,Monaco Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,18.0,R,14.0,,Collision,0.0,70.0,14.0,0 days 00:01:12.829000,0 days 00:01:12.714000,,2018,6,Monaco Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,19.0,R,15.0,,Collision,0.0,70.0,16.0,0 days 00:01:13.179000,,,2018,6,Monaco Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,20.0,R,7.0,,Gearbox,0.0,52.0,7.0,0 days 00:01:12.657000,0 days 00:01:12.269000,0 days 00:01:12.110000,2018,6,Monaco Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,1.0,0 days 01:28:31.377000,Finished,25.0,68.0,1.0,0 days 00:01:11.710000,0 days 00:01:11.524000,0 days 00:01:10.764000,2018,7,Canadian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,0 days 00:00:07.376000,Finished,18.0,68.0,2.0,0 days 00:01:11.950000,0 days 00:01:11.514000,0 days 00:01:10.857000,2018,7,Canadian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,3.0,0 days 00:00:08.360000,Finished,15.0,68.0,3.0,0 days 00:01:12.008000,0 days 00:01:11.472000,0 days 00:01:10.937000,2018,7,Canadian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,6.0,0 days 00:00:20.892000,Finished,12.0,68.0,6.0,0 days 00:01:12.459000,0 days 00:01:11.434000,0 days 00:01:11.116000,2018,7,Canadian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,5.0,5,4.0,0 days 00:00:21.559000,Finished,10.0,68.0,4.0,0 days 00:01:11.835000,0 days 00:01:11.740000,0 days 00:01:10.996000,2018,7,Canadian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,5.0,0 days 00:00:27.184000,Finished,8.0,68.0,5.0,0 days 00:01:11.725000,0 days 00:01:11.620000,0 days 00:01:11.095000,2018,7,Canadian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,7.0,7,7.0,,+1 Lap,6.0,67.0,7.0,0 days 00:01:12.795000,0 days 00:01:11.916000,0 days 00:01:11.973000,2018,7,Canadian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,9.0,,+1 Lap,4.0,67.0,9.0,0 days 00:01:12.689000,0 days 00:01:12.097000,0 days 00:01:12.168000,2018,7,Canadian Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,8.0,,+1 Lap,2.0,67.0,8.0,0 days 00:01:12.577000,0 days 00:01:12.141000,0 days 00:01:12.084000,2018,7,Canadian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,13.0,,+1 Lap,1.0,67.0,13.0,0 days 00:01:12.945000,0 days 00:01:12.661000,,2018,7,Canadian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,11.0,11,16.0,,+1 Lap,0.0,67.0,16.0,0 days 00:01:13.047000,,,2018,7,Canadian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,12.0,12,20.0,,+1 Lap,0.0,67.0,20.0,,,,2018,7,Canadian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,13.0,13,11.0,,+1 Lap,0.0,67.0,11.0,0 days 00:01:12.680000,0 days 00:01:12.606000,,2018,7,Canadian Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,14.0,14,10.0,,+1 Lap,0.0,67.0,10.0,0 days 00:01:12.702000,0 days 00:01:12.395000,0 days 00:01:12.671000,2018,7,Canadian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,19.0,,+2 Laps,0.0,66.0,19.0,0 days 00:01:14.593000,,,2018,7,Canadian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,16.0,16,15.0,,+2 Laps,0.0,66.0,15.0,0 days 00:01:12.998000,0 days 00:01:12.865000,,2018,7,Canadian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,17.0,17,18.0,,+2 Laps,0.0,66.0,18.0,0 days 00:01:13.643000,,,2018,7,Canadian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,14.0,,Exhaust,0.0,40.0,14.0,0 days 00:01:12.979000,0 days 00:01:12.856000,,2018,7,Canadian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,19.0,R,12.0,,Collision,0.0,0.0,12.0,0 days 00:01:12.587000,0 days 00:01:12.635000,,2018,7,Canadian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,20.0,R,17.0,,Collision,0.0,0.0,17.0,0 days 00:01:13.590000,,,2018,7,Canadian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:30:11.385000,Finished,25.0,53.0,1.0,0 days 00:01:31.271000,0 days 00:01:30.645000,0 days 00:01:30.029000,2018,8,French Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,4.0,0 days 00:00:07.090000,Finished,18.0,53.0,4.0,0 days 00:01:31.531000,0 days 00:01:30.818000,0 days 00:01:30.705000,2018,8,French Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,6.0,0 days 00:00:25.888000,Finished,15.0,53.0,6.0,0 days 00:01:31.567000,0 days 00:01:30.772000,0 days 00:01:31.057000,2018,8,French Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,5.0,0 days 00:00:34.736000,Finished,12.0,53.0,5.0,0 days 00:01:31.910000,0 days 00:01:31.538000,0 days 00:01:30.895000,2018,8,French Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,3.0,0 days 00:01:01.935000,Finished,10.0,53.0,3.0,0 days 00:01:31.820000,0 days 00:01:30.751000,0 days 00:01:30.400000,2018,8,French Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,6.0,6,9.0,0 days 00:01:19.364000,Finished,8.0,53.0,9.0,0 days 00:01:32.169000,0 days 00:01:31.510000,0 days 00:01:32.930000,2018,8,French Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,7.0,7,2.0,0 days 00:01:20.632000,Finished,6.0,53.0,2.0,0 days 00:01:31.776000,0 days 00:01:31.227000,0 days 00:01:30.147000,2018,8,French Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,7.0,0 days 00:01:27.184000,Finished,4.0,53.0,7.0,0 days 00:01:32.394000,0 days 00:01:32.016000,0 days 00:01:32.126000,2018,8,French Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,9.0,9,12.0,0 days 00:01:31.989000,Finished,2.0,53.0,12.0,0 days 00:01:32.949000,0 days 00:01:32.115000,,2018,8,French Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,10.0,10,8.0,0 days 00:01:33.873000,Finished,1.0,53.0,8.0,0 days 00:01:32.538000,0 days 00:01:32.055000,0 days 00:01:32.635000,2018,8,French Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,10.0,,+1 Lap,0.0,52.0,10.0,0 days 00:01:32.083000,0 days 00:01:31.472000,,2018,8,French Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,12.0,12,17.0,,+1 Lap,0.0,52.0,18.0,0 days 00:01:33.162000,,,2018,8,French Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,15.0,,+1 Lap,0.0,52.0,15.0,0 days 00:01:32.804000,0 days 00:01:32.820000,,2018,8,French Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,20.0,,+1 Lap,0.0,52.0,17.0,0 days 00:01:33.025000,,,2018,8,French Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,18.0,,+1 Lap,0.0,52.0,19.0,0 days 00:01:33.636000,,,2018,8,French Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,16.0,16,16.0,,Wheel,0.0,50.0,16.0,0 days 00:01:32.976000,,,2018,8,French Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,19.0,,Puncture,0.0,48.0,20.0,0 days 00:01:33.729000,,,2018,8,French Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,18.0,R,13.0,,Engine,0.0,27.0,13.0,0 days 00:01:32.692000,0 days 00:01:32.454000,,2018,8,French Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,19.0,R,11.0,,Collision,0.0,0.0,11.0,0 days 00:01:32.786000,0 days 00:01:32.075000,,2018,8,French Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,20.0,R,14.0,,Collision,0.0,0.0,14.0,0 days 00:01:32.447000,0 days 00:01:32.460000,,2018,8,French Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,4.0,0 days 01:21:56.024000,Finished,25.0,71.0,5.0,0 days 00:01:04.273000,0 days 00:01:04.001000,0 days 00:01:03.840000,2018,9,Austrian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,3.0,0 days 00:00:01.504000,Finished,18.0,71.0,4.0,0 days 00:01:04.234000,0 days 00:01:03.975000,0 days 00:01:03.660000,2018,9,Austrian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,6.0,0 days 00:00:03.181000,Finished,15.0,71.0,3.0,0 days 00:01:04.347000,0 days 00:01:03.544000,0 days 00:01:03.464000,2018,9,Austrian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,4.0,4,5.0,,+1 Lap,12.0,70.0,6.0,0 days 00:01:04.242000,0 days 00:01:04.059000,0 days 00:01:03.892000,2018,9,Austrian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,5.0,5,8.0,,+1 Lap,10.0,70.0,8.0,0 days 00:01:04.460000,0 days 00:01:04.291000,0 days 00:01:04.051000,2018,9,Austrian Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,6.0,6,11.0,,+1 Lap,8.0,70.0,11.0,0 days 00:01:05.148000,0 days 00:01:04.845000,,2018,9,Austrian Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,7.0,7,16.0,,+1 Lap,6.0,70.0,17.0,0 days 00:01:05.279000,,,2018,9,Austrian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,13.0,,+1 Lap,4.0,70.0,14.0,0 days 00:01:04.965000,0 days 00:01:05.058000,,2018,9,Austrian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,9.0,9,18.0,,+1 Lap,2.0,70.0,13.0,0 days 00:01:04.967000,0 days 00:01:04.979000,,2018,9,Austrian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,10.0,10,20.0,,+1 Lap,1.0,70.0,20.0,0 days 00:01:05.479000,,,2018,9,Austrian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,11.0,11,12.0,,+1 Lap,0.0,70.0,12.0,0 days 00:01:05.011000,0 days 00:01:04.874000,,2018,9,Austrian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,12.0,12,9.0,,+1 Lap,0.0,70.0,9.0,0 days 00:01:04.948000,0 days 00:01:04.561000,0 days 00:01:04.725000,2018,9,Austrian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,13.0,13,17.0,,+2 Laps,0.0,69.0,18.0,0 days 00:01:05.322000,,,2018,9,Austrian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,14.0,,+2 Laps,0.0,69.0,15.0,0 days 00:01:05.264000,0 days 00:01:05.286000,,2018,9,Austrian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,15.0,15,15.0,,Collision damage,0.0,65.0,16.0,0 days 00:01:05.271000,,,2018,9,Austrian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,16.0,R,2.0,,Fuel pressure,0.0,62.0,2.0,0 days 00:01:04.080000,0 days 00:01:03.577000,0 days 00:01:03.149000,2018,9,Austrian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,17.0,R,19.0,,Hydraulics,0.0,54.0,19.0,0 days 00:01:05.366000,,,2018,9,Austrian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,18.0,R,7.0,,Exhaust,0.0,53.0,7.0,0 days 00:01:04.723000,0 days 00:01:04.403000,0 days 00:01:03.996000,2018,9,Austrian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,19.0,R,1.0,,Hydraulics,0.0,13.0,1.0,0 days 00:01:04.175000,0 days 00:01:03.756000,0 days 00:01:03.130000,2018,9,Austrian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,20.0,R,10.0,,Engine,0.0,11.0,10.0,0 days 00:01:04.864000,0 days 00:01:04.676000,0 days 00:01:05.019000,2018,9,Austrian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,0 days 01:27:29.784000,Finished,25.0,52.0,2.0,0 days 00:01:26.585000,0 days 00:01:26.372000,0 days 00:01:25.936000,2018,10,British Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,0 days 00:00:02.264000,Finished,18.0,52.0,1.0,0 days 00:01:26.818000,0 days 00:01:26.256000,0 days 00:01:25.892000,2018,10,British Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,0 days 00:00:03.652000,Finished,15.0,52.0,3.0,0 days 00:01:27.549000,0 days 00:01:26.483000,0 days 00:01:25.990000,2018,10,British Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,4.0,0 days 00:00:08.883000,Finished,12.0,52.0,4.0,0 days 00:01:27.025000,0 days 00:01:26.413000,0 days 00:01:26.217000,2018,10,British Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,6.0,0 days 00:00:09.500000,Finished,10.0,52.0,6.0,0 days 00:01:27.979000,0 days 00:01:27.369000,0 days 00:01:27.099000,2018,10,British Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,11.0,0 days 00:00:28.220000,Finished,8.0,52.0,11.0,0 days 00:01:28.017000,0 days 00:01:27.901000,,2018,10,British Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,7.0,7,10.0,0 days 00:00:29.930000,Finished,6.0,52.0,10.0,0 days 00:01:28.279000,0 days 00:01:27.843000,0 days 00:01:28.194000,2018,10,British Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,13.0,0 days 00:00:31.115000,Finished,4.0,52.0,13.0,0 days 00:01:28.187000,0 days 00:01:28.139000,,2018,10,British Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,7.0,0 days 00:00:33.188000,Finished,2.0,52.0,7.0,0 days 00:01:28.143000,0 days 00:01:27.730000,0 days 00:01:27.244000,2018,10,British Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,10.0,10,12.0,0 days 00:00:34.708000,Finished,1.0,52.0,12.0,0 days 00:01:28.210000,0 days 00:01:27.928000,,2018,10,British Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,11.0,11,17.0,0 days 00:00:35.774000,Finished,0.0,52.0,17.0,0 days 00:01:29.096000,,,2018,10,British Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,12.0,12,19.0,0 days 00:00:38.106000,Finished,0.0,52.0,19.0,,,,2018,10,British Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,13.0,13,14.0,0 days 00:00:39.129000,Finished,0.0,52.0,14.0,0 days 00:01:28.399000,0 days 00:01:28.343000,,2018,10,British Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,14.0,14,18.0,0 days 00:00:48.113000,Finished,0.0,52.0,18.0,0 days 00:01:29.252000,,,2018,10,British Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,15.0,R,5.0,,Brakes,0.0,46.0,5.0,0 days 00:01:27.309000,0 days 00:01:27.013000,0 days 00:01:26.602000,2018,10,British Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,R,8.0,,Collision,0.0,37.0,8.0,0 days 00:01:28.086000,0 days 00:01:27.522000,0 days 00:01:27.455000,2018,10,British Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,17.0,R,16.0,,Collision,0.0,37.0,16.0,0 days 00:01:28.456000,,,2018,10,British Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,18.0,R,15.0,,Accident,0.0,31.0,15.0,0 days 00:01:28.249000,0 days 00:01:28.391000,,2018,10,British Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,19.0,R,9.0,,Tyre,0.0,18.0,9.0,0 days 00:01:27.962000,0 days 00:01:27.790000,0 days 00:01:27.879000,2018,10,British Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,20.0,R,0.0,,Power Unit,0.0,1.0,20.0,,,,2018,10,British Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,14.0,0 days 01:32:29.845000,Finished,25.0,67.0,14.0,0 days 00:01:13.012000,,,2018,11,German Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,0 days 00:00:04.535000,Finished,18.0,67.0,2.0,0 days 00:01:12.962000,0 days 00:01:12.152000,0 days 00:01:11.416000,2018,11,German Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,0 days 00:00:06.732000,Finished,15.0,67.0,3.0,0 days 00:01:12.505000,0 days 00:01:12.336000,0 days 00:01:11.547000,2018,11,German Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,4.0,4,4.0,0 days 00:00:07.654000,Finished,12.0,67.0,4.0,0 days 00:01:13.127000,0 days 00:01:12.188000,0 days 00:01:11.822000,2018,11,German Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,5.0,5,7.0,0 days 00:00:26.609000,Finished,10.0,67.0,7.0,0 days 00:01:13.479000,0 days 00:01:12.946000,0 days 00:01:12.560000,2018,11,German Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,6.0,6,6.0,0 days 00:00:28.871000,Finished,8.0,67.0,6.0,0 days 00:01:12.986000,0 days 00:01:12.722000,0 days 00:01:12.544000,2018,11,German Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,7.0,7,10.0,0 days 00:00:30.556000,Finished,6.0,67.0,10.0,0 days 00:01:13.427000,0 days 00:01:13.072000,0 days 00:01:12.774000,2018,11,German Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,8.0,8,15.0,0 days 00:00:31.750000,Finished,4.0,67.0,16.0,0 days 00:01:13.720000,,,2018,11,German Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,9.0,9,13.0,0 days 00:00:32.362000,Finished,2.0,67.0,13.0,0 days 00:01:13.562000,0 days 00:01:13.736000,,2018,11,German Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,10.0,10,17.0,0 days 00:00:34.197000,Finished,1.0,67.0,18.0,0 days 00:01:14.045000,,,2018,11,German Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,11.0,11,5.0,0 days 00:00:34.919000,Finished,0.0,67.0,5.0,0 days 00:01:13.105000,0 days 00:01:12.523000,0 days 00:01:12.200000,2018,11,German Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,12.0,12,8.0,0 days 00:00:43.069000,Finished,0.0,67.0,8.0,0 days 00:01:13.324000,0 days 00:01:13.032000,0 days 00:01:12.692000,2018,11,German Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,13.0,13,19.0,0 days 00:00:46.617000,Finished,0.0,67.0,20.0,0 days 00:01:14.401000,,,2018,11,German Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,14.0,14,16.0,,+1 Lap,0.0,66.0,17.0,0 days 00:01:13.749000,,,2018,11,German Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,15.0,15,9.0,,+1 Lap,0.0,66.0,9.0,0 days 00:01:13.077000,0 days 00:01:12.995000,0 days 00:01:12.717000,2018,11,German Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,16.0,16,11.0,,Retired,0.0,65.0,11.0,0 days 00:01:13.614000,0 days 00:01:13.657000,,2018,11,German Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,R,18.0,,Engine,0.0,53.0,19.0,0 days 00:01:14.206000,,,2018,11,German Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,18.0,R,1.0,,Accident,0.0,51.0,1.0,0 days 00:01:12.538000,0 days 00:01:12.505000,0 days 00:01:11.212000,2018,11,German Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,19.0,R,12.0,,Engine,0.0,51.0,12.0,0 days 00:01:13.708000,0 days 00:01:13.702000,,2018,11,German Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,20.0,R,20.0,,Engine,0.0,27.0,15.0,0 days 00:01:13.318000,,,2018,11,German Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:37:16.427000,Finished,25.0,70.0,1.0,0 days 00:01:17.419000,0 days 00:01:31.242000,0 days 00:01:35.658000,2018,12,Hungarian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,4.0,0 days 00:00:17.123000,Finished,18.0,70.0,4.0,0 days 00:01:16.666000,0 days 00:01:28.636000,0 days 00:01:36.210000,2018,12,Hungarian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,0 days 00:00:20.101000,Finished,15.0,70.0,3.0,0 days 00:01:17.526000,0 days 00:01:32.762000,0 days 00:01:36.186000,2018,12,Hungarian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,12.0,0 days 00:00:46.419000,Finished,12.0,70.0,12.0,0 days 00:01:18.540000,0 days 00:01:36.442000,,2018,12,Hungarian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,2.0,0 days 00:00:50,Finished,10.0,70.0,2.0,0 days 00:01:17.123000,0 days 00:01:32.081000,0 days 00:01:35.918000,2018,12,Hungarian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,6.0,6,6.0,0 days 00:01:13.273000,Finished,8.0,70.0,6.0,0 days 00:01:18.577000,0 days 00:01:31.286000,0 days 00:01:37.591000,2018,12,Hungarian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,7.0,7,9.0,,+1 Lap,6.0,69.0,9.0,0 days 00:01:18.314000,0 days 00:01:32.968000,0 days 00:01:39.858000,2018,12,Hungarian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,8.0,8,11.0,,+1 Lap,4.0,69.0,11.0,0 days 00:01:18.208000,0 days 00:01:35.214000,,2018,12,Hungarian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,9.0,9,5.0,,+1 Lap,2.0,69.0,5.0,0 days 00:01:17.829000,0 days 00:01:30.771000,0 days 00:01:36.743000,2018,12,Hungarian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,10.0,10,10.0,,+1 Lap,1.0,69.0,10.0,0 days 00:01:17.901000,0 days 00:01:33.650000,0 days 00:01:40.593000,2018,12,Hungarian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,11.0,11,8.0,,+1 Lap,0.0,69.0,8.0,0 days 00:01:18.429000,0 days 00:01:32.590000,0 days 00:01:38.128000,2018,12,Hungarian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,12.0,12,13.0,,+1 Lap,0.0,69.0,13.0,0 days 00:01:17.905000,0 days 00:01:36.506000,,2018,12,Hungarian Grand Prix
+31,E OCON,OCO,ocon,Force India,force_india,Esteban,Ocon,Esteban Ocon,13.0,13,18.0,,+1 Lap,0.0,69.0,18.0,0 days 00:01:19.142000,,,2018,12,Hungarian Grand Prix
+11,S PEREZ,PER,perez,Force India,force_india,Sergio,Perez,Sergio Perez,14.0,14,19.0,,+1 Lap,0.0,69.0,19.0,0 days 00:01:19.200000,,,2018,12,Hungarian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,14.0,,+2 Laps,0.0,68.0,14.0,0 days 00:01:18.641000,0 days 00:01:37.075000,,2018,12,Hungarian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,16.0,16,20.0,,+2 Laps,0.0,68.0,20.0,0 days 00:01:19.301000,,,2018,12,Hungarian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,15.0,,+2 Laps,0.0,68.0,15.0,0 days 00:01:18.560000,,,2018,12,Hungarian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,18.0,R,16.0,,Gearbox,0.0,49.0,16.0,0 days 00:01:18.782000,,,2018,12,Hungarian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,19.0,R,7.0,,Power loss,0.0,5.0,7.0,0 days 00:01:16.940000,0 days 00:01:31.178000,0 days 00:01:38.032000,2018,12,Hungarian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,20.0,R,17.0,,Suspension,0.0,0.0,17.0,0 days 00:01:18.817000,,,2018,12,Hungarian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,1.0,1,2.0,0 days 01:23:34.476000,Finished,25.0,44.0,2.0,0 days 00:01:43.035000,0 days 00:01:41.501000,0 days 00:01:58.905000,2018,13,Belgian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,0 days 00:00:11.061000,Finished,18.0,44.0,1.0,0 days 00:01:42.977000,0 days 00:01:41.553000,0 days 00:01:58.179000,2018,13,Belgian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,7.0,0 days 00:00:31.372000,Finished,15.0,44.0,7.0,0 days 00:01:43.199000,0 days 00:01:42.554000,0 days 00:02:02.769000,2018,13,Belgian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,19.0,0 days 00:01:03.605000,Finished,12.0,44.0,10.0,0 days 00:01:42.805000,0 days 00:01:42.191000,,2018,13,Belgian Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,5.0,5,4.0,0 days 00:01:11.023000,Finished,10.0,44.0,4.0,0 days 00:01:44.004000,0 days 00:01:43.014000,0 days 00:02:01.894000,2018,13,Belgian Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,6.0,6,3.0,0 days 00:01:19.520000,Finished,8.0,44.0,3.0,0 days 00:01:44.003000,0 days 00:01:43.302000,0 days 00:02:01.851000,2018,13,Belgian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,7.0,7,5.0,0 days 00:01:25.953000,Finished,6.0,44.0,5.0,0 days 00:01:43.597000,0 days 00:01:43.042000,0 days 00:02:02.122000,2018,13,Belgian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,8.0,8,9.0,0 days 00:01:27.639000,Finished,4.0,44.0,9.0,0 days 00:01:43.834000,0 days 00:01:43.320000,0 days 00:02:04.933000,2018,13,Belgian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,9.0,9,10.0,0 days 00:01:45.892000,Finished,2.0,44.0,11.0,0 days 00:01:44.221000,0 days 00:01:43.844000,,2018,13,Belgian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,10.0,10,13.0,,+1 Lap,1.0,43.0,14.0,0 days 00:01:43.846000,0 days 00:01:44.301000,,2018,13,Belgian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,11.0,11,14.0,,+1 Lap,0.0,43.0,16.0,0 days 00:01:44.489000,,,2018,13,Belgian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,12.0,12,16.0,,+1 Lap,0.0,43.0,18.0,0 days 00:01:44.998000,,,2018,13,Belgian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,13.0,13,17.0,,+1 Lap,0.0,43.0,19.0,0 days 00:01:45.134000,,,2018,13,Belgian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,11.0,,+1 Lap,0.0,43.0,12.0,0 days 00:01:44.153000,0 days 00:01:43.865000,,2018,13,Belgian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,15.0,15,18.0,,+1 Lap,0.0,43.0,20.0,0 days 00:01:45.307000,,,2018,13,Belgian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,16.0,R,8.0,,Retired,0.0,28.0,8.0,0 days 00:01:43.604000,0 days 00:01:43.126000,0 days 00:02:02.939000,2018,13,Belgian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,17.0,R,6.0,,Brakes,0.0,8.0,6.0,0 days 00:01:42.585000,0 days 00:01:41.533000,0 days 00:02:02.671000,2018,13,Belgian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,18.0,R,12.0,,Accident,0.0,0.0,13.0,0 days 00:01:43.654000,0 days 00:01:44.062000,,2018,13,Belgian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,19.0,R,15.0,,Accident,0.0,0.0,17.0,0 days 00:01:44.917000,,,2018,13,Belgian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,20.0,R,20.0,,Accident,0.0,0.0,15.0,0 days 00:01:44.145000,,,2018,13,Belgian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,3.0,0 days 01:16:54.484000,Finished,25.0,53.0,3.0,0 days 00:01:20.810000,0 days 00:01:19.798000,0 days 00:01:19.294000,2018,14,Italian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,1.0,0 days 00:00:08.705000,Finished,18.0,53.0,1.0,0 days 00:01:20.722000,0 days 00:01:19.846000,0 days 00:01:19.119000,2018,14,Italian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,3.0,3,4.0,0 days 00:00:14.066000,Finished,15.0,53.0,4.0,0 days 00:01:21.381000,0 days 00:01:20.427000,0 days 00:01:19.656000,2018,14,Italian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,2.0,0 days 00:00:16.151000,Finished,12.0,53.0,2.0,0 days 00:01:20.542000,0 days 00:01:19.629000,0 days 00:01:19.280000,2018,14,Italian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,5.0,5,5.0,0 days 00:00:18.208000,Finished,10.0,53.0,5.0,0 days 00:01:21.381000,0 days 00:01:20.333000,0 days 00:01:20.615000,2018,14,Italian Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,6.0,6,8.0,0 days 00:00:57.761000,Finished,8.0,53.0,8.0,0 days 00:01:21.570000,0 days 00:01:21.315000,0 days 00:01:21.099000,2018,14,Italian Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,7.0,7,14.0,0 days 00:00:58.678000,Finished,6.0,53.0,16.0,0 days 00:01:21.888000,,,2018,14,Italian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,7.0,0 days 00:01:18.140000,Finished,4.0,53.0,7.0,0 days 00:01:21.732000,0 days 00:01:21.552000,0 days 00:01:21.041000,2018,14,Italian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,9.0,9,10.0,,+1 Lap,2.0,52.0,10.0,0 days 00:01:21.838000,0 days 00:01:21.494000,0 days 00:01:21.627000,2018,14,Italian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,10.0,10,12.0,,+1 Lap,1.0,52.0,12.0,0 days 00:01:21.813000,0 days 00:01:21.732000,,2018,14,Italian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,11.0,11,15.0,,+1 Lap,0.0,52.0,17.0,0 days 00:01:21.889000,,,2018,14,Italian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,12.0,12,17.0,,+1 Lap,0.0,52.0,20.0,0 days 00:01:22.085000,,,2018,14,Italian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,13.0,13,20.0,,+1 Lap,0.0,52.0,14.0,0 days 00:01:21.801000,,,2018,14,Italian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,14.0,14,9.0,,+1 Lap,0.0,52.0,9.0,0 days 00:01:21.834000,0 days 00:01:21.667000,0 days 00:01:21.350000,2018,14,Italian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,18.0,,+1 Lap,0.0,52.0,19.0,0 days 00:01:22.048000,,,2018,14,Italian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,16.0,16,11.0,,+1 Lap,0.0,52.0,11.0,0 days 00:01:21.783000,0 days 00:01:21.669000,,2018,14,Italian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,17.0,R,19.0,,Engine,0.0,23.0,15.0,0 days 00:01:21.280000,,,2018,14,Italian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,13.0,,Engine,0.0,9.0,13.0,0 days 00:01:21.850000,0 days 00:01:22.568000,,2018,14,Italian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,19.0,R,16.0,,Brakes,0.0,0.0,18.0,0 days 00:01:21.934000,,,2018,14,Italian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,D,6.0,,Disqualified,0.0,53.0,6.0,0 days 00:01:21.887000,0 days 00:01:21.239000,0 days 00:01:20.936000,2018,14,Italian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:51:11.611000,Finished,25.0,61.0,1.0,0 days 00:01:39.403000,0 days 00:01:37.344000,0 days 00:01:36.015000,2018,15,Singapore Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,2.0,0 days 00:00:08.961000,Finished,18.0,61.0,2.0,0 days 00:01:38.751000,0 days 00:01:37.214000,0 days 00:01:36.334000,2018,15,Singapore Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,3.0,0 days 00:00:39.984000,Finished,15.0,61.0,3.0,0 days 00:01:38.218000,0 days 00:01:37.876000,0 days 00:01:36.628000,2018,15,Singapore Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,4.0,4,4.0,0 days 00:00:51.930000,Finished,12.0,61.0,4.0,0 days 00:01:39.291000,0 days 00:01:37.254000,0 days 00:01:36.702000,2018,15,Singapore Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,5.0,5,5.0,0 days 00:00:53.001000,Finished,10.0,61.0,5.0,0 days 00:01:38.534000,0 days 00:01:37.194000,0 days 00:01:36.794000,2018,15,Singapore Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,6.0,0 days 00:00:53.982000,Finished,8.0,61.0,6.0,0 days 00:01:38.153000,0 days 00:01:37.406000,0 days 00:01:36.996000,2018,15,Singapore Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,11.0,0 days 00:01:43.001000,Finished,6.0,61.0,11.0,0 days 00:01:39.022000,0 days 00:01:38.641000,,2018,15,Singapore Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,8.0,8,12.0,,+1 Lap,4.0,60.0,12.0,0 days 00:01:39.103000,0 days 00:01:38.716000,,2018,15,Singapore Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,9.0,9,13.0,,+1 Lap,2.0,60.0,13.0,0 days 00:01:39.206000,0 days 00:01:38.747000,,2018,15,Singapore Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,10.0,10,10.0,,+1 Lap,1.0,60.0,10.0,0 days 00:01:38.932000,0 days 00:01:38.450000,0 days 00:01:38.588000,2018,15,Singapore Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,11.0,11,14.0,,+1 Lap,0.0,60.0,14.0,0 days 00:01:39.366000,0 days 00:01:39.453000,,2018,15,Singapore Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,12.0,12,18.0,,+1 Lap,0.0,60.0,18.0,0 days 00:01:39.864000,,,2018,15,Singapore Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,13.0,13,15.0,,+1 Lap,0.0,60.0,15.0,0 days 00:01:39.614000,0 days 00:01:39.691000,,2018,15,Singapore Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,20.0,,+1 Lap,0.0,60.0,20.0,0 days 00:01:41.334000,,,2018,15,Singapore Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,15.0,15,8.0,,+1 Lap,0.0,60.0,8.0,0 days 00:01:38.685000,0 days 00:01:38.367000,0 days 00:01:38.320000,2018,15,Singapore Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,16.0,16,7.0,,+1 Lap,0.0,60.0,7.0,0 days 00:01:38.814000,0 days 00:01:38.342000,0 days 00:01:37.985000,2018,15,Singapore Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,17.0,17,17.0,,+1 Lap,0.0,60.0,17.0,0 days 00:01:39.809000,,,2018,15,Singapore Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,18.0,18,16.0,,+2 Laps,0.0,59.0,16.0,0 days 00:01:39.644000,,,2018,15,Singapore Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,19.0,19,19.0,,+2 Laps,0.0,59.0,19.0,0 days 00:01:41.263000,,,2018,15,Singapore Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,20.0,R,9.0,,Collision,0.0,0.0,9.0,0 days 00:01:38.912000,0 days 00:01:38.534000,0 days 00:01:38.365000,2018,15,Singapore Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,0 days 01:27:25.181000,Finished,25.0,53.0,2.0,0 days 00:01:32.410000,0 days 00:01:32.595000,0 days 00:01:31.532000,2018,16,Russian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,1.0,0 days 00:00:02.545000,Finished,18.0,53.0,1.0,0 days 00:01:32.964000,0 days 00:01:32.744000,0 days 00:01:31.387000,2018,16,Russian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,3.0,0 days 00:00:07.487000,Finished,15.0,53.0,3.0,0 days 00:01:33.476000,0 days 00:01:33.045000,0 days 00:01:31.943000,2018,16,Russian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,4.0,0 days 00:00:16.543000,Finished,12.0,53.0,4.0,0 days 00:01:33.341000,0 days 00:01:33.065000,0 days 00:01:32.237000,2018,16,Russian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,5.0,5,19.0,0 days 00:00:31.016000,Finished,10.0,53.0,11.0,0 days 00:01:33.048000,,,2018,16,Russian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,18.0,0 days 00:01:20.451000,Finished,8.0,53.0,12.0,0 days 00:01:33.247000,,,2018,16,Russian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,7.0,7,7.0,0 days 00:01:38.390000,Finished,6.0,53.0,7.0,0 days 00:01:33.924000,0 days 00:01:33.488000,0 days 00:01:33.419000,2018,16,Russian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,8.0,8,5.0,,+1 Lap,4.0,52.0,5.0,0 days 00:01:34.078000,0 days 00:01:33.747000,0 days 00:01:33.181000,2018,16,Russian Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,6.0,,+1 Lap,2.0,52.0,6.0,0 days 00:01:34.290000,0 days 00:01:33.596000,0 days 00:01:33.413000,2018,16,Russian Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,10.0,10,8.0,,+1 Lap,1.0,52.0,8.0,0 days 00:01:34.084000,0 days 00:01:33.923000,0 days 00:01:33.563000,2018,16,Russian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,9.0,,+1 Lap,0.0,52.0,9.0,0 days 00:01:34.022000,0 days 00:01:33.517000,0 days 00:01:33.704000,2018,16,Russian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,12.0,12,12.0,,+1 Lap,0.0,52.0,15.0,0 days 00:01:34.655000,,,2018,16,Russian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,13.0,13,10.0,,+1 Lap,0.0,52.0,10.0,0 days 00:01:34.170000,0 days 00:01:33.995000,0 days 00:01:35.196000,2018,16,Russian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,14.0,14,16.0,,+1 Lap,0.0,52.0,17.0,0 days 00:01:35.504000,,,2018,16,Russian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,15.0,15,14.0,,+1 Lap,0.0,52.0,20.0,0 days 00:01:36.437000,,,2018,16,Russian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,16.0,16,15.0,,+2 Laps,0.0,51.0,19.0,0 days 00:01:35.977000,,,2018,16,Russian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,17.0,17,11.0,,+2 Laps,0.0,51.0,14.0,0 days 00:01:34.626000,,,2018,16,Russian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,18.0,18,13.0,,+2 Laps,0.0,51.0,18.0,0 days 00:01:35.612000,,,2018,16,Russian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,19.0,R,17.0,,Brakes,0.0,4.0,13.0,0 days 00:01:34.383000,,,2018,16,Russian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,20.0,R,20.0,,Brakes,0.0,4.0,16.0,0 days 00:01:35.037000,,,2018,16,Russian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:27:17.062000,Finished,25.0,53.0,1.0,0 days 00:01:28.702000,0 days 00:01:28.017000,0 days 00:01:27.760000,2018,17,Japanese Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,2.0,2,2.0,0 days 00:00:12.919000,Finished,18.0,53.0,2.0,0 days 00:01:29.297000,0 days 00:01:27.987000,0 days 00:01:28.059000,2018,17,Japanese Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,3.0,0 days 00:00:14.295000,Finished,15.0,53.0,3.0,0 days 00:01:29.480000,0 days 00:01:28.849000,0 days 00:01:29.057000,2018,17,Japanese Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,15.0,0 days 00:00:19.495000,Finished,12.0,53.0,15.0,0 days 00:01:29.806000,,,2018,17,Japanese Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,5.0,5,4.0,0 days 00:00:50.998000,Finished,10.0,53.0,4.0,0 days 00:01:29.631000,0 days 00:01:28.595000,0 days 00:01:29.521000,2018,17,Japanese Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,6.0,6,8.0,0 days 00:01:09.873000,Finished,8.0,53.0,9.0,0 days 00:01:29.049000,0 days 00:01:28.279000,0 days 00:01:32.192000,2018,17,Japanese Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,7.0,7,9.0,0 days 00:01:19.379000,Finished,6.0,53.0,10.0,0 days 00:01:30.247000,0 days 00:01:29.567000,0 days 00:01:37.229000,2018,17,Japanese Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,8.0,8,5.0,0 days 00:01:27.198000,Finished,4.0,53.0,5.0,0 days 00:01:29.724000,0 days 00:01:29.678000,0 days 00:01:29.761000,2018,17,Japanese Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,9.0,9,11.0,0 days 00:01:28.055000,Finished,2.0,53.0,8.0,0 days 00:01:29.899000,0 days 00:01:29.538000,0 days 00:01:30.126000,2018,17,Japanese Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,10.0,10,13.0,,+1 Lap,1.0,52.0,13.0,0 days 00:01:30.236000,0 days 00:01:30.490000,,2018,17,Japanese Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,11.0,11,7.0,,+1 Lap,0.0,52.0,7.0,0 days 00:01:30.137000,0 days 00:01:29.810000,0 days 00:01:30.093000,2018,17,Japanese Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,12.0,12,20.0,,+1 Lap,0.0,52.0,20.0,0 days 00:01:31.213000,,,2018,17,Japanese Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,13.0,13,6.0,,+1 Lap,0.0,52.0,6.0,0 days 00:01:30.248000,0 days 00:01:29.848000,0 days 00:01:30.023000,2018,17,Japanese Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,14.0,14,18.0,,+1 Lap,0.0,52.0,18.0,0 days 00:01:30.573000,,,2018,17,Japanese Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,15.0,15,19.0,,+1 Lap,0.0,52.0,19.0,0 days 00:01:31.041000,,,2018,17,Japanese Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,16.0,16,17.0,,+1 Lap,0.0,52.0,17.0,0 days 00:01:30.372000,,,2018,17,Japanese Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,17.0,17,14.0,,+1 Lap,0.0,52.0,14.0,0 days 00:01:30.317000,0 days 00:01:30.714000,,2018,17,Japanese Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,18.0,R,10.0,,Mechanical,0.0,38.0,11.0,0 days 00:01:29.706000,0 days 00:01:29.864000,,2018,17,Japanese Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,19.0,R,16.0,,Engine,0.0,37.0,16.0,0 days 00:01:30.361000,,,2018,17,Japanese Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,R,12.0,,Collision damage,0.0,8.0,12.0,0 days 00:01:30.219000,0 days 00:01:30.226000,,2018,17,Japanese Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,1.0,1,2.0,0 days 01:34:18.643000,Finished,25.0,56.0,3.0,0 days 00:01:34.703000,0 days 00:01:32.884000,0 days 00:01:32.307000,2018,18,United States Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,18.0,0 days 00:00:01.281000,Finished,18.0,56.0,15.0,0 days 00:01:34.766000,,,2018,18,United States Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,1.0,0 days 00:00:02.342000,Finished,15.0,56.0,1.0,0 days 00:01:34.130000,0 days 00:01:33.480000,0 days 00:01:32.237000,2018,18,United States Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,5.0,0 days 00:00:18.222000,Finished,12.0,56.0,2.0,0 days 00:01:34.569000,0 days 00:01:33.079000,0 days 00:01:32.298000,2018,18,United States Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,3.0,0 days 00:00:24.744000,Finished,10.0,56.0,4.0,0 days 00:01:34.518000,0 days 00:01:33.702000,0 days 00:01:32.616000,2018,18,United States Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,0 days 00:01:27.210000,Finished,8.0,56.0,7.0,0 days 00:01:34.932000,0 days 00:01:34.564000,0 days 00:01:34.215000,2018,18,United States Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,7.0,7,11.0,0 days 00:01:34.994000,Finished,6.0,56.0,11.0,0 days 00:01:34.891000,0 days 00:01:34.566000,,2018,18,United States Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,8.0,8,10.0,0 days 00:01:41.080000,Finished,4.0,56.0,10.0,0 days 00:01:35.193000,0 days 00:01:34.525000,0 days 00:01:34.594000,2018,18,United States Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,9.0,9,20.0,,+1 Lap,2.0,55.0,14.0,0 days 00:01:35.206000,,,2018,18,United States Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,10.0,10,16.0,,+1 Lap,1.0,55.0,19.0,0 days 00:01:35.536000,,,2018,18,United States Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,11.0,11,17.0,,+1 Lap,0.0,55.0,20.0,0 days 00:01:35.735000,,,2018,18,United States Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,12.0,12,19.0,,+1 Lap,0.0,55.0,13.0,0 days 00:01:34.850000,,,2018,18,United States Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,13.0,13,14.0,,+1 Lap,0.0,55.0,17.0,0 days 00:01:35.362000,,,2018,18,United States Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,14.0,14,15.0,,+2 Laps,0.0,54.0,18.0,0 days 00:01:35.480000,,,2018,18,United States Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,15.0,R,9.0,,Collision damage,0.0,31.0,9.0,0 days 00:01:35.069000,0 days 00:01:34.255000,0 days 00:01:34.420000,2018,18,United States Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,16.0,R,4.0,,Battery,0.0,8.0,5.0,0 days 00:01:34.755000,0 days 00:01:34.185000,0 days 00:01:33.494000,2018,18,United States Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,17.0,R,8.0,,Collision damage,0.0,2.0,8.0,0 days 00:01:34.892000,0 days 00:01:34.419000,0 days 00:01:34.250000,2018,18,United States Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,R,13.0,,Collision,0.0,1.0,16.0,0 days 00:01:35.294000,,,2018,18,United States Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,19.0,D,6.0,,Disqualified,0.0,56.0,6.0,0 days 00:01:34.876000,0 days 00:01:34.522000,0 days 00:01:34.145000,2018,18,United States Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,20.0,D,12.0,,Disqualified,0.0,56.0,12.0,0 days 00:01:34.972000,0 days 00:01:34.732000,,2018,18,United States Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,1.0,1,2.0,0 days 01:38:28.851000,Finished,25.0,71.0,2.0,0 days 00:01:15.756000,0 days 00:01:15.640000,0 days 00:01:14.785000,2018,19,Mexican Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,4.0,0 days 00:00:17.316000,Finished,18.0,71.0,4.0,0 days 00:01:16.089000,0 days 00:01:15.715000,0 days 00:01:14.970000,2018,19,Mexican Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,6.0,0 days 00:00:49.914000,Finished,15.0,71.0,6.0,0 days 00:01:16.446000,0 days 00:01:15.996000,0 days 00:01:15.330000,2018,19,Mexican Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,4.0,4,3.0,0 days 00:01:18.738000,Finished,12.0,71.0,3.0,0 days 00:01:15.673000,0 days 00:01:15.644000,0 days 00:01:14.894000,2018,19,Mexican Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,5.0,,+1 Lap,10.0,70.0,5.0,0 days 00:01:15.580000,0 days 00:01:15.923000,0 days 00:01:15.160000,2018,19,Mexican Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,6.0,6,7.0,,+2 Laps,8.0,69.0,7.0,0 days 00:01:16.498000,0 days 00:01:16.126000,0 days 00:01:15.827000,2018,19,Mexican Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,7.0,7,9.0,,+2 Laps,6.0,69.0,9.0,0 days 00:01:16.862000,0 days 00:01:16.320000,0 days 00:01:16.189000,2018,19,Mexican Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,8.0,8,15.0,,+2 Laps,4.0,69.0,17.0,0 days 00:01:16.966000,,,2018,19,Mexican Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,9.0,9,10.0,,+2 Laps,2.0,69.0,10.0,0 days 00:01:16.701000,0 days 00:01:16.633000,0 days 00:01:16.513000,2018,19,Mexican Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,10.0,10,20.0,,+2 Laps,1.0,69.0,15.0,0 days 00:01:16.828000,,,2018,19,Mexican Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,11.0,11,11.0,,+2 Laps,0.0,69.0,11.0,0 days 00:01:16.252000,0 days 00:01:16.844000,,2018,19,Mexican Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,12.0,12,17.0,,+2 Laps,0.0,69.0,19.0,0 days 00:01:17.689000,,,2018,19,Mexican Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,13.0,13,19.0,,+2 Laps,0.0,69.0,20.0,0 days 00:01:17.886000,,,2018,19,Mexican Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,14.0,14,14.0,,+2 Laps,0.0,69.0,14.0,0 days 00:01:16.682000,0 days 00:01:17.184000,,2018,19,Mexican Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,15.0,15,16.0,,+2 Laps,0.0,69.0,18.0,0 days 00:01:17.599000,,,2018,19,Mexican Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,16.0,16,18.0,,+3 Laps,0.0,68.0,16.0,0 days 00:01:16.911000,,,2018,19,Mexican Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,17.0,R,1.0,,Engine,0.0,61.0,1.0,0 days 00:01:15.866000,0 days 00:01:15.845000,0 days 00:01:14.759000,2018,19,Mexican Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,18.0,R,13.0,,Brakes,0.0,38.0,13.0,0 days 00:01:16.242000,0 days 00:01:17.167000,,2018,19,Mexican Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,19.0,R,8.0,,Suspension,0.0,28.0,8.0,0 days 00:01:16.813000,0 days 00:01:16.188000,0 days 00:01:16.084000,2018,19,Mexican Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,20.0,R,12.0,,Engine,0.0,3.0,12.0,0 days 00:01:16.857000,0 days 00:01:16.871000,,2018,19,Mexican Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:27:09.066000,Finished,25.0,71.0,1.0,0 days 00:01:08.464000,0 days 00:01:07.795000,0 days 00:01:07.281000,2018,20,Brazilian Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,2.0,2,5.0,0 days 00:00:01.469000,Finished,18.0,71.0,5.0,0 days 00:01:08.205000,0 days 00:01:08.017000,0 days 00:01:07.778000,2018,20,Brazilian Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,4.0,0 days 00:00:04.764000,Finished,15.0,71.0,4.0,0 days 00:01:08.452000,0 days 00:01:08.028000,0 days 00:01:07.456000,2018,20,Brazilian Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,11.0,0 days 00:00:05.193000,Finished,12.0,71.0,6.0,0 days 00:01:08.544000,0 days 00:01:08.055000,0 days 00:01:07.780000,2018,20,Brazilian Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,3.0,0 days 00:00:22.943000,Finished,10.0,71.0,3.0,0 days 00:01:08.492000,0 days 00:01:07.727000,0 days 00:01:07.441000,2018,20,Brazilian Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,6.0,6,2.0,0 days 00:00:26.997000,Finished,8.0,71.0,2.0,0 days 00:01:08.452000,0 days 00:01:07.776000,0 days 00:01:07.374000,2018,20,Brazilian Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,7.0,7,7.0,0 days 00:00:44.199000,Finished,6.0,71.0,8.0,0 days 00:01:08.667000,0 days 00:01:08.335000,0 days 00:01:08.492000,2018,20,Brazilian Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,8.0,8,8.0,0 days 00:00:51.230000,Finished,4.0,71.0,9.0,0 days 00:01:08.735000,0 days 00:01:08.239000,0 days 00:01:08.517000,2018,20,Brazilian Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,9.0,9,10.0,0 days 00:00:52.857000,Finished,2.0,71.0,11.0,0 days 00:01:08.474000,0 days 00:01:08.659000,,2018,20,Brazilian Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,10.0,10,12.0,,+1 Lap,1.0,70.0,12.0,0 days 00:01:09.217000,0 days 00:01:08.741000,,2018,20,Brazilian Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,11.0,11,16.0,,+1 Lap,0.0,70.0,17.0,0 days 00:01:09.280000,,,2018,20,Brazilian Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,12.0,12,15.0,,+1 Lap,0.0,70.0,16.0,0 days 00:01:09.269000,,,2018,20,Brazilian Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,13.0,13,9.0,,+1 Lap,0.0,70.0,10.0,0 days 00:01:09.046000,0 days 00:01:08.616000,0 days 00:01:09.029000,2018,20,Brazilian Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,14.0,14,20.0,,+1 Lap,0.0,70.0,20.0,0 days 00:01:09.601000,,,2018,20,Brazilian Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,15.0,15,18.0,,+1 Lap,0.0,70.0,13.0,0 days 00:01:09.264000,0 days 00:01:08.770000,,2018,20,Brazilian Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,16.0,16,14.0,,+2 Laps,0.0,69.0,15.0,0 days 00:01:09.259000,0 days 00:01:10.381000,,2018,20,Brazilian Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,17.0,17,17.0,,+2 Laps,0.0,69.0,18.0,0 days 00:01:09.402000,,,2018,20,Brazilian Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,18.0,18,19.0,,+2 Laps,0.0,69.0,19.0,0 days 00:01:09.441000,,,2018,20,Brazilian Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,19.0,R,13.0,,Overheating,0.0,32.0,14.0,0 days 00:01:09.009000,0 days 00:01:08.834000,,2018,20,Brazilian Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,20.0,R,6.0,,Collision,0.0,20.0,7.0,0 days 00:01:08.754000,0 days 00:01:08.579000,0 days 00:01:08.296000,2018,20,Brazilian Grand Prix
+44,L HAMILTON,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:39:40.382000,Finished,25.0,55.0,1.0,0 days 00:01:36.828000,0 days 00:01:35.693000,0 days 00:01:34.794000,2018,21,Abu Dhabi Grand Prix
+5,S VETTEL,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,3.0,0 days 00:00:02.581000,Finished,18.0,55.0,3.0,0 days 00:01:36.775000,0 days 00:01:36.345000,0 days 00:01:35.125000,2018,21,Abu Dhabi Grand Prix
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,red_bull,Max,Verstappen,Max Verstappen,3.0,3,6.0,0 days 00:00:12.706000,Finished,15.0,55.0,6.0,0 days 00:01:37.195000,0 days 00:01:36.144000,0 days 00:01:35.589000,2018,21,Abu Dhabi Grand Prix
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,5.0,0 days 00:00:15.379000,Finished,12.0,55.0,5.0,0 days 00:01:37.117000,0 days 00:01:36.964000,0 days 00:01:35.401000,2018,21,Abu Dhabi Grand Prix
+77,V BOTTAS,BOT,bottas,Mercedes,mercedes,Valtteri,Bottas,Valtteri Bottas,5.0,5,2.0,0 days 00:00:47.957000,Finished,10.0,55.0,2.0,0 days 00:01:36.789000,0 days 00:01:36.392000,0 days 00:01:34.956000,2018,21,Abu Dhabi Grand Prix
+55,C SAINZ,SAI,sainz,Renault,renault,Carlos,Sainz,Carlos Sainz,6.0,6,11.0,0 days 00:01:12.548000,Finished,8.0,55.0,11.0,0 days 00:01:37.757000,0 days 00:01:36.982000,,2018,21,Abu Dhabi Grand Prix
+16,C LECLERC,LEC,leclerc,Sauber,sauber,Charles,Leclerc,Charles Leclerc,7.0,7,8.0,0 days 00:01:30.789000,Finished,6.0,55.0,8.0,0 days 00:01:37.124000,0 days 00:01:36.580000,0 days 00:01:36.237000,2018,21,Abu Dhabi Grand Prix
+11,S PEREZ,PER,perez,Racing Point,force_india,Sergio,Perez,Sergio Perez,8.0,8,14.0,0 days 00:01:31.275000,Finished,4.0,55.0,14.0,0 days 00:01:37.255000,0 days 00:01:37.541000,,2018,21,Abu Dhabi Grand Prix
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,9.0,9,7.0,,+1 Lap,2.0,54.0,7.0,0 days 00:01:37.575000,0 days 00:01:36.732000,0 days 00:01:36.192000,2018,21,Abu Dhabi Grand Prix
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,haas,Kevin,Magnussen,Kevin Magnussen,10.0,10,13.0,,+1 Lap,1.0,54.0,13.0,0 days 00:01:37.934000,0 days 00:01:37.309000,,2018,21,Abu Dhabi Grand Prix
+14,F ALONSO,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,11.0,11,15.0,,+1 Lap,0.0,54.0,15.0,0 days 00:01:37.890000,0 days 00:01:37.743000,,2018,21,Abu Dhabi Grand Prix
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,toro_rosso,Brendon,Hartley,Brendon Hartley,12.0,12,16.0,,+1 Lap,0.0,54.0,16.0,0 days 00:01:37.994000,,,2018,21,Abu Dhabi Grand Prix
+18,L STROLL,STR,stroll,Williams,williams,Lance,Stroll,Lance Stroll,13.0,13,20.0,,+1 Lap,0.0,54.0,20.0,0 days 00:01:38.682000,,,2018,21,Abu Dhabi Grand Prix
+2,S VANDOORNE,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,14.0,14,18.0,,+1 Lap,0.0,54.0,18.0,0 days 00:01:38.577000,,,2018,21,Abu Dhabi Grand Prix
+35,S SIROTKIN,SIR,sirotkin,Williams,williams,Sergey,Sirotkin,Sergey Sirotkin,15.0,15,19.0,,+1 Lap,0.0,54.0,19.0,0 days 00:01:38.635000,,,2018,21,Abu Dhabi Grand Prix
+10,P GASLY,GAS,gasly,Toro Rosso,toro_rosso,Pierre,Gasly,Pierre Gasly,16.0,R,17.0,,Engine,0.0,46.0,17.0,0 days 00:01:38.166000,,,2018,21,Abu Dhabi Grand Prix
+31,E OCON,OCO,ocon,Racing Point,force_india,Esteban,Ocon,Esteban Ocon,17.0,R,9.0,,Engine,0.0,44.0,9.0,0 days 00:01:36.936000,0 days 00:01:36.814000,0 days 00:01:36.540000,2018,21,Abu Dhabi Grand Prix
+9,M ERICSSON,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,18.0,R,12.0,,Power loss,0.0,24.0,12.0,0 days 00:01:37.619000,0 days 00:01:37.132000,,2018,21,Abu Dhabi Grand Prix
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,19.0,R,4.0,,Power loss,0.0,6.0,4.0,0 days 00:01:37.010000,0 days 00:01:36.735000,0 days 00:01:35.365000,2018,21,Abu Dhabi Grand Prix
+27,N HULKENBERG,HUL,hulkenberg,Renault,renault,Nico,Hulkenberg,Nico Hulkenberg,20.0,R,10.0,,Collision,0.0,0.0,10.0,0 days 00:01:37.569000,0 days 00:01:36.630000,0 days 00:01:36.542000,2018,21,Abu Dhabi Grand Prix

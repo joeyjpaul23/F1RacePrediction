@@ -1,0 +1,463 @@
+Race_DriverNumber,Race_Abbreviation,Race_DriverId,Race_TeamName,Race_TeamId,Race_FirstName,Race_LastName,Race_FullName,Race_Position,Race_ClassifiedPosition,Race_GridPosition,Race_Time,Race_Status,Race_Points,Race_Laps,Qual_Position,Qual_Q1,Qual_Q2,Qual_Q3,Year,Round,EventName
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,2.0,0 days 01:48:15.565000,Finished,25.0,57.0,2.0,0 days 00:01:26.934000,0 days 00:01:24.796000,0 days 00:01:24.197000,2016,1,Australian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,0 days 00:00:08.060000,Finished,18.0,57.0,1.0,0 days 00:01:25.351000,0 days 00:01:24.605000,0 days 00:01:23.837000,2016,1,Australian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,3.0,0 days 00:00:09.643000,Finished,15.0,57.0,3.0,0 days 00:01:26.945000,0 days 00:01:25.257000,0 days 00:01:24.675000,2016,1,Australian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,8.0,0 days 00:00:24.330000,Finished,12.0,57.0,8.0,0 days 00:01:26.945000,0 days 00:01:25.599000,0 days 00:01:25.589000,2016,1,Australian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,5.0,5,6.0,0 days 00:00:58.979000,Finished,10.0,57.0,6.0,0 days 00:01:25.918000,0 days 00:01:25.644000,0 days 00:01:25.458000,2016,1,Australian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,6.0,6,19.0,0 days 00:01:12.081000,Finished,8.0,57.0,19.0,0 days 00:01:28.322000,,,2016,1,Australian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,10.0,0 days 00:01:14.199000,Finished,6.0,57.0,10.0,0 days 00:01:26.550000,0 days 00:01:25.865000,,2016,1,Australian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,8.0,8,16.0,0 days 00:01:15.153000,Finished,4.0,57.0,11.0,0 days 00:01:27.135000,0 days 00:01:25.961000,,2016,1,Australian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,9.0,9,7.0,0 days 00:01:15.680000,Finished,2.0,57.0,7.0,0 days 00:01:27.057000,0 days 00:01:25.384000,0 days 00:01:25.582000,2016,1,Australian Grand Prix
+33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,10.0,10,5.0,0 days 00:01:16.833000,Finished,1.0,57.0,5.0,0 days 00:01:26.934000,0 days 00:01:25.615000,0 days 00:01:25.434000,2016,1,Australian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,11.0,11,13.0,0 days 00:01:23.399000,Finished,0.0,57.0,14.0,0 days 00:01:27.241000,0 days 00:01:27.601000,,2016,1,Australian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,12.0,12,14.0,0 days 00:01:25.606000,Finished,0.0,57.0,15.0,0 days 00:01:27.297000,0 days 00:01:27.742000,,2016,1,Australian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,13.0,13,9.0,0 days 00:01:31.699000,Finished,0.0,57.0,9.0,0 days 00:01:26.607000,0 days 00:01:25.753000,,2016,1,Australian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,14.0,14,12.0,,+1 Lap,0.0,56.0,13.0,0 days 00:01:26.740000,0 days 00:01:26.304000,,2016,1,Australian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,15.0,15,17.0,,+1 Lap,0.0,56.0,17.0,0 days 00:01:27.958000,,,2016,1,Australian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,16.0,16,21.0,,+1 Lap,0.0,56.0,22.0,0 days 00:01:29.642000,,,2016,1,Australian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,17.0,R,15.0,,Engine,0.0,38.0,16.0,0 days 00:01:27.435000,,,2016,1,Australian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,18.0,R,4.0,,Engine,0.0,21.0,4.0,0 days 00:01:26.579000,0 days 00:01:25.615000,0 days 00:01:25.033000,2016,1,Australian Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,19.0,R,22.0,,Mechanical,0.0,17.0,21.0,0 days 00:01:29.627000,,,2016,1,Australian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,20.0,R,20.0,,Collision,0.0,16.0,20.0,0 days 00:01:29.606000,,,2016,1,Australian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,21.0,R,11.0,,Collision,0.0,16.0,12.0,0 days 00:01:26.537000,0 days 00:01:26.125000,,2016,1,Australian Grand Prix
+26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,22.0,W,18.0,,Retired,0.0,0.0,18.0,0 days 00:01:28.006000,,,2016,1,Australian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,2.0,0 days 01:33:34.696000,Finished,25.0,57.0,2.0,0 days 00:01:31.325000,0 days 00:01:30.535000,0 days 00:01:29.570000,2016,2,Bahrain Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,4.0,0 days 00:00:10.282000,Finished,18.0,57.0,4.0,0 days 00:01:31.685000,0 days 00:01:30.559000,0 days 00:01:30.244000,2016,2,Bahrain Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,1.0,0 days 00:00:30.148000,Finished,15.0,57.0,1.0,0 days 00:01:31.391000,0 days 00:01:30.039000,0 days 00:01:29.493000,2016,2,Bahrain Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,5.0,0 days 00:01:02.494000,Finished,12.0,57.0,5.0,0 days 00:01:31.403000,0 days 00:01:31.122000,0 days 00:01:30.854000,2016,2,Bahrain Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,5.0,5,9.0,0 days 00:01:18.299000,Finished,10.0,57.0,9.0,0 days 00:01:32.005000,0 days 00:01:31.756000,,2016,2,Bahrain Grand Prix
+33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,6.0,6,10.0,0 days 00:01:20.929000,Finished,8.0,57.0,10.0,0 days 00:01:31.888000,0 days 00:01:31.772000,,2016,2,Bahrain Grand Prix
+26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,7.0,7,15.0,,+1 Lap,6.0,56.0,15.0,0 days 00:01:32.559000,0 days 00:01:32.241000,,2016,2,Bahrain Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,8.0,8,7.0,,+1 Lap,4.0,56.0,7.0,0 days 00:01:32.045000,0 days 00:01:31.374000,0 days 00:01:31.155000,2016,2,Bahrain Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,9.0,9,6.0,,+1 Lap,2.0,56.0,6.0,0 days 00:01:31.672000,0 days 00:01:30.931000,0 days 00:01:31.153000,2016,2,Bahrain Grand Prix
+47,VAN,vandoorne,McLaren,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,10.0,10,12.0,,+1 Lap,1.0,56.0,12.0,0 days 00:01:32.472000,0 days 00:01:31.934000,,2016,2,Bahrain Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,11.0,11,22.0,,+1 Lap,0.0,56.0,19.0,0 days 00:01:33.181000,,,2016,2,Bahrain Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,12.0,12,17.0,,+1 Lap,0.0,56.0,17.0,0 days 00:01:32.840000,,,2016,2,Bahrain Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,13.0,13,16.0,,+1 Lap,0.0,56.0,16.0,0 days 00:01:32.806000,,,2016,2,Bahrain Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,14.0,14,21.0,,+1 Lap,0.0,56.0,22.0,0 days 00:01:34.388000,,,2016,2,Bahrain Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,15.0,15,8.0,,+1 Lap,0.0,56.0,8.0,0 days 00:01:31.987000,0 days 00:01:31.604000,0 days 00:01:31.620000,2016,2,Bahrain Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,16.0,16,18.0,,+1 Lap,0.0,56.0,18.0,0 days 00:01:32.911000,,,2016,2,Bahrain Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,17.0,17,20.0,,+1 Lap,0.0,56.0,21.0,0 days 00:01:34.190000,,,2016,2,Bahrain Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,18.0,R,11.0,,Retired,0.0,29.0,11.0,0 days 00:01:31.716000,0 days 00:01:31.816000,,2016,2,Bahrain Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,19.0,R,13.0,,Retired,0.0,9.0,13.0,0 days 00:01:32.118000,0 days 00:01:31.945000,,2016,2,Bahrain Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,20.0,R,14.0,,Power Unit,0.0,6.0,14.0,0 days 00:01:31.976000,0 days 00:01:31.998000,,2016,2,Bahrain Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,21.0,W,3.0,,Engine,0.0,0.0,3.0,0 days 00:01:31.636000,0 days 00:01:30.409000,0 days 00:01:30.012000,2016,2,Bahrain Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,22.0,W,19.0,,Hydraulics,0.0,0.0,20.0,0 days 00:01:33.438000,,,2016,2,Bahrain Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,0 days 01:38:53.891000,Finished,25.0,56.0,1.0,0 days 00:01:37.669000,0 days 00:01:36.240000,0 days 00:01:35.402000,2016,3,Chinese Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,4.0,0 days 00:00:37.776000,Finished,18.0,56.0,4.0,0 days 00:01:37.001000,0 days 00:01:36.183000,0 days 00:01:36.246000,2016,3,Chinese Grand Prix
+26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,3.0,3,6.0,0 days 00:00:45.936000,Finished,15.0,56.0,6.0,0 days 00:01:37.719000,0 days 00:01:36.948000,0 days 00:01:36.399000,2016,3,Chinese Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,2.0,0 days 00:00:52.688000,Finished,12.0,56.0,2.0,0 days 00:01:37.672000,0 days 00:01:36.815000,0 days 00:01:35.917000,2016,3,Chinese Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,5.0,5,3.0,0 days 00:01:05.872000,Finished,10.0,56.0,3.0,0 days 00:01:37.347000,0 days 00:01:36.118000,0 days 00:01:35.972000,2016,3,Chinese Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,6.0,6,10.0,0 days 00:01:15.511000,Finished,8.0,56.0,11.0,0 days 00:01:38.016000,0 days 00:01:37.347000,,2016,3,Chinese Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,7.0,7,22.0,0 days 00:01:18.230000,Finished,6.0,56.0,22.0,,,,2016,3,Chinese Grand Prix
+33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,8.0,8,9.0,0 days 00:01:19.268000,Finished,4.0,56.0,9.0,0 days 00:01:38.181000,0 days 00:01:37.265000,0 days 00:01:37.194000,2016,3,Chinese Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,9.0,9,8.0,0 days 00:01:24.127000,Finished,2.0,56.0,8.0,0 days 00:01:37.656000,0 days 00:01:37.204000,0 days 00:01:36.881000,2016,3,Chinese Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,10.0,10,5.0,0 days 00:01:26.192000,Finished,1.0,56.0,5.0,0 days 00:01:37.537000,0 days 00:01:36.831000,0 days 00:01:36.296000,2016,3,Chinese Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,11.0,11,7.0,0 days 00:01:34.283000,Finished,0.0,56.0,7.0,0 days 00:01:38.096000,0 days 00:01:37.149000,0 days 00:01:36.865000,2016,3,Chinese Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,12.0,12,11.0,0 days 00:01:37.253000,Finished,0.0,56.0,12.0,0 days 00:01:38.451000,0 days 00:01:38.826000,,2016,3,Chinese Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,13.0,13,12.0,0 days 00:01:41.990000,Finished,0.0,56.0,13.0,0 days 00:01:37.593000,0 days 00:01:39.093000,,2016,3,Chinese Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,14.0,14,18.0,,+1 Lap,0.0,55.0,18.0,0 days 00:01:38.770000,,,2016,3,Chinese Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,15.0,15,13.0,,+1 Lap,0.0,55.0,10.0,0 days 00:01:38.165000,0 days 00:01:37.333000,,2016,3,Chinese Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,16,15.0,,+1 Lap,0.0,55.0,15.0,0 days 00:01:38.321000,0 days 00:01:40.742000,,2016,3,Chinese Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,17.0,17,17.0,,+1 Lap,0.0,55.0,17.0,0 days 00:01:38.673000,,,2016,3,Chinese Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,18.0,18,21.0,,+1 Lap,0.0,55.0,21.0,,,,2016,3,Chinese Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,19.0,19,14.0,,+1 Lap,0.0,55.0,14.0,0 days 00:01:38.425000,0 days 00:01:39.830000,,2016,3,Chinese Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,20.0,20,16.0,,+1 Lap,0.0,55.0,16.0,0 days 00:01:38.654000,0 days 00:01:42.430000,,2016,3,Chinese Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,21.0,21,20.0,,+1 Lap,0.0,55.0,20.0,0 days 00:01:40.264000,,,2016,3,Chinese Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,22.0,22,19.0,,+1 Lap,0.0,55.0,19.0,0 days 00:01:39.528000,,,2016,3,Chinese Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,0 days 01:32:41.997000,Finished,25.0,53.0,1.0,0 days 00:01:36.119000,0 days 00:01:35.337000,0 days 00:01:35.417000,2016,4,Russian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,10.0,0 days 00:00:25.022000,Finished,18.0,53.0,10.0,0 days 00:01:36.006000,0 days 00:01:35.820000,,2016,4,Russian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,3.0,0 days 00:00:31.998000,Finished,15.0,53.0,4.0,0 days 00:01:36.976000,0 days 00:01:36.741000,0 days 00:01:36.663000,2016,4,Russian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,4.0,4,2.0,0 days 00:00:50.217000,Finished,12.0,53.0,3.0,0 days 00:01:37.746000,0 days 00:01:37.140000,0 days 00:01:36.536000,2016,4,Russian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,5.0,5,4.0,0 days 00:01:14.427000,Finished,10.0,53.0,5.0,0 days 00:01:37.753000,0 days 00:01:37.230000,0 days 00:01:37.016000,2016,4,Russian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,6.0,6,14.0,,+1 Lap,8.0,52.0,14.0,0 days 00:01:37.971000,0 days 00:01:37.807000,,2016,4,Russian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,7.0,7,17.0,,+1 Lap,6.0,52.0,17.0,0 days 00:01:38.914000,,,2016,4,Russian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,8.0,8,15.0,,+1 Lap,4.0,52.0,15.0,0 days 00:01:38.383000,0 days 00:01:38.055000,,2016,4,Russian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,9.0,9,6.0,,+1 Lap,2.0,52.0,7.0,0 days 00:01:38.006000,0 days 00:01:37.282000,0 days 00:01:37.212000,2016,4,Russian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,10.0,10,12.0,,+1 Lap,1.0,52.0,12.0,0 days 00:01:38.332000,0 days 00:01:37.701000,,2016,4,Russian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,11.0,11,5.0,,+1 Lap,0.0,52.0,6.0,0 days 00:01:38.091000,0 days 00:01:37.569000,0 days 00:01:37.125000,2016,4,Russian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,12.0,12,11.0,,+1 Lap,0.0,52.0,11.0,0 days 00:01:37.784000,0 days 00:01:37.652000,,2016,4,Russian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,13.0,13,18.0,,+1 Lap,0.0,52.0,18.0,0 days 00:01:39.009000,,,2016,4,Russian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,14.0,14,22.0,,+1 Lap,0.0,52.0,22.0,0 days 00:01:39.519000,,,2016,4,Russian Grand Prix
+26,KVY,kvyat,Red Bull,red_bull,Daniil,Kvyat,Daniil Kvyat,15.0,15,8.0,,+1 Lap,0.0,52.0,8.0,0 days 00:01:38.265000,0 days 00:01:37.606000,0 days 00:01:37.459000,2016,4,Russian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,16.0,16,19.0,,+1 Lap,0.0,52.0,19.0,0 days 00:01:39.018000,,,2016,4,Russian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,17.0,17,16.0,,+1 Lap,0.0,52.0,16.0,0 days 00:01:38.678000,0 days 00:01:38.115000,,2016,4,Russian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,18.0,18,20.0,,+2 Laps,0.0,51.0,20.0,0 days 00:01:39.399000,,,2016,4,Russian Grand Prix
+33,VER,max_verstappen,Toro Rosso,toro_rosso,Max,Verstappen,Max Verstappen,19.0,R,9.0,,Power Unit,0.0,33.0,9.0,0 days 00:01:38.123000,0 days 00:01:37.510000,0 days 00:01:37.583000,2016,4,Russian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,20.0,R,7.0,,Collision,0.0,0.0,2.0,0 days 00:01:36.555000,0 days 00:01:36.623000,0 days 00:01:36.123000,2016,4,Russian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,21.0,R,13.0,,Collision,0.0,0.0,13.0,0 days 00:01:38.562000,0 days 00:01:37.771000,,2016,4,Russian Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,22.0,R,21.0,,Collision,0.0,0.0,21.0,0 days 00:01:39.463000,,,2016,4,Russian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,1.0,1,4.0,0 days 01:41:40.017000,Finished,25.0,66.0,4.0,0 days 00:01:23.578000,0 days 00:01:23.178000,0 days 00:01:23.087000,2016,5,Spanish Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,2.0,2,5.0,0 days 00:00:00.616000,Finished,18.0,66.0,5.0,0 days 00:01:23.796000,0 days 00:01:23.504000,0 days 00:01:23.113000,2016,5,Spanish Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,6.0,0 days 00:00:05.581000,Finished,15.0,66.0,6.0,0 days 00:01:24.124000,0 days 00:01:23.688000,0 days 00:01:23.334000,2016,5,Spanish Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,3.0,0 days 00:00:43.950000,Finished,12.0,66.0,3.0,0 days 00:01:23.749000,0 days 00:01:23.585000,0 days 00:01:22.680000,2016,5,Spanish Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,5.0,5,7.0,0 days 00:00:45.271000,Finished,10.0,66.0,7.0,0 days 00:01:24.251000,0 days 00:01:24.023000,0 days 00:01:23.522000,2016,5,Spanish Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,8.0,0 days 00:01:01.395000,Finished,8.0,66.0,8.0,0 days 00:01:24.496000,0 days 00:01:24.077000,0 days 00:01:23.643000,2016,5,Spanish Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,7.0,7,9.0,0 days 00:01:19.538000,Finished,6.0,66.0,9.0,0 days 00:01:24.698000,0 days 00:01:24.003000,0 days 00:01:23.782000,2016,5,Spanish Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,8.0,8,18.0,0 days 00:01:20.707000,Finished,4.0,66.0,18.0,0 days 00:01:24.941000,,,2016,5,Spanish Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,9.0,9,12.0,,+1 Lap,2.0,65.0,12.0,0 days 00:01:24.583000,0 days 00:01:24.348000,,2016,5,Spanish Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,10.0,10,13.0,,+1 Lap,1.0,65.0,13.0,0 days 00:01:24.696000,0 days 00:01:24.445000,,2016,5,Spanish Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,11.0,11,16.0,,+1 Lap,0.0,65.0,16.0,0 days 00:01:24.406000,0 days 00:01:24.778000,,2016,5,Spanish Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,12.0,12,19.0,,+1 Lap,0.0,65.0,19.0,0 days 00:01:25.202000,,,2016,5,Spanish Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,13.0,13,17.0,,+1 Lap,0.0,65.0,17.0,0 days 00:01:24.903000,,,2016,5,Spanish Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,15.0,,+1 Lap,0.0,65.0,15.0,0 days 00:01:24.669000,0 days 00:01:24.625000,,2016,5,Spanish Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,15.0,15,20.0,,+1 Lap,0.0,65.0,20.0,0 days 00:01:25.579000,,,2016,5,Spanish Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,16.0,16,21.0,,+1 Lap,0.0,65.0,21.0,0 days 00:01:25.745000,,,2016,5,Spanish Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,17.0,17,22.0,,+1 Lap,0.0,65.0,22.0,0 days 00:01:25.939000,,,2016,5,Spanish Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,18.0,R,14.0,,Engine,0.0,56.0,14.0,0 days 00:01:24.716000,0 days 00:01:24.480000,,2016,5,Spanish Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,19.0,R,10.0,,Engine,0.0,45.0,10.0,0 days 00:01:24.578000,0 days 00:01:24.192000,0 days 00:01:23.981000,2016,5,Spanish Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,20.0,R,11.0,,Engine,0.0,20.0,11.0,0 days 00:01:24.463000,0 days 00:01:24.203000,,2016,5,Spanish Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,21.0,R,1.0,,Collision,0.0,0.0,1.0,0 days 00:01:23.214000,0 days 00:01:22.159000,0 days 00:01:22,2016,5,Spanish Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,22.0,R,2.0,,Collision,0.0,0.0,2.0,0 days 00:01:23.002000,0 days 00:01:22.759000,0 days 00:01:22.280000,2016,5,Spanish Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,3.0,0 days 01:59:29.133000,Finished,25.0,78.0,3.0,0 days 00:01:14.826000,0 days 00:01:14.056000,0 days 00:01:13.942000,2016,6,Monaco Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,2.0,2,1.0,0 days 00:00:07.252000,Finished,18.0,78.0,1.0,0 days 00:01:14.912000,0 days 00:01:14.357000,0 days 00:01:13.622000,2016,6,Monaco Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,3.0,3,7.0,0 days 00:00:13.825000,Finished,15.0,78.0,8.0,0 days 00:01:15.328000,0 days 00:01:14.937000,0 days 00:01:14.902000,2016,6,Monaco Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,4.0,0 days 00:00:15.846000,Finished,12.0,78.0,4.0,0 days 00:01:14.610000,0 days 00:01:14.318000,0 days 00:01:14.552000,2016,6,Monaco Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,5.0,5,9.0,0 days 00:01:25.076000,Finished,10.0,78.0,10.0,0 days 00:01:15.504000,0 days 00:01:15.107000,0 days 00:01:15.363000,2016,6,Monaco Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,6.0,6,5.0,0 days 00:01:32.999000,Finished,8.0,78.0,5.0,0 days 00:01:15.333000,0 days 00:01:14.989000,0 days 00:01:14.726000,2016,6,Monaco Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,7.0,7,2.0,0 days 00:01:33.290000,Finished,6.0,78.0,2.0,0 days 00:01:14.873000,0 days 00:01:14.043000,0 days 00:01:13.791000,2016,6,Monaco Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,8.0,8,6.0,,+1 Lap,4.0,77.0,7.0,0 days 00:01:15.467000,0 days 00:01:14.805000,0 days 00:01:14.749000,2016,6,Monaco Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,9.0,9,13.0,,+1 Lap,2.0,77.0,13.0,0 days 00:01:15.554000,0 days 00:01:15.352000,,2016,6,Monaco Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,10.0,10,14.0,,+1 Lap,1.0,77.0,14.0,0 days 00:01:15.710000,0 days 00:01:15.385000,,2016,6,Monaco Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,11.0,11,12.0,,+1 Lap,0.0,77.0,12.0,0 days 00:01:15.592000,0 days 00:01:15.293000,,2016,6,Monaco Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,12.0,12,10.0,,+1 Lap,0.0,77.0,11.0,0 days 00:01:15.521000,0 days 00:01:15.273000,,2016,6,Monaco Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,15.0,,+2 Laps,0.0,76.0,15.0,0 days 00:01:15.465000,0 days 00:01:15.571000,,2016,6,Monaco Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,14.0,14,20.0,,+2 Laps,0.0,76.0,20.0,0 days 00:01:17.452000,,,2016,6,Monaco Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,15.0,15,19.0,,+4 Laps,0.0,74.0,19.0,0 days 00:01:17.295000,,,2016,6,Monaco Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,R,17.0,,Collision,0.0,51.0,17.0,0 days 00:01:16.299000,,,2016,6,Monaco Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,17.0,R,0.0,,Retired,0.0,48.0,22.0,,,,2016,6,Monaco Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,18.0,R,0.0,,Accident,0.0,34.0,21.0,0 days 00:01:22.467000,,,2016,6,Monaco Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,19.0,R,16.0,,Retired,0.0,32.0,16.0,0 days 00:01:16.253000,0 days 00:01:16.058000,,2016,6,Monaco Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,20.0,R,8.0,,Accident,0.0,18.0,9.0,0 days 00:01:15.384000,0 days 00:01:14.794000,0 days 00:01:15.273000,2016,6,Monaco Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,21.0,R,11.0,,Accident,0.0,10.0,6.0,0 days 00:01:15.499000,0 days 00:01:14.789000,0 days 00:01:14.732000,2016,6,Monaco Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,22.0,R,18.0,,Accident,0.0,7.0,18.0,0 days 00:01:16.586000,,,2016,6,Monaco Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:31:05.296000,Finished,25.0,70.0,1.0,0 days 00:01:14.121000,0 days 00:01:13.076000,0 days 00:01:12.812000,2016,7,Canadian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,3.0,0 days 00:00:05.011000,Finished,18.0,70.0,3.0,0 days 00:01:13.925000,0 days 00:01:13.857000,0 days 00:01:12.990000,2016,7,Canadian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,3.0,3,7.0,0 days 00:00:46.422000,Finished,15.0,70.0,7.0,0 days 00:01:14.389000,0 days 00:01:13.791000,0 days 00:01:13.670000,2016,7,Canadian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,4.0,4,5.0,0 days 00:00:53.020000,Finished,12.0,70.0,5.0,0 days 00:01:14.601000,0 days 00:01:13.793000,0 days 00:01:13.414000,2016,7,Canadian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,5.0,5,2.0,0 days 00:01:02.093000,Finished,10.0,70.0,2.0,0 days 00:01:13.714000,0 days 00:01:13.094000,0 days 00:01:12.874000,2016,7,Canadian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,6.0,0 days 00:01:03.017000,Finished,8.0,70.0,6.0,0 days 00:01:14.477000,0 days 00:01:13.849000,0 days 00:01:13.579000,2016,7,Canadian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,7.0,7,4.0,0 days 00:01:03.634000,Finished,6.0,70.0,4.0,0 days 00:01:14.030000,0 days 00:01:13.540000,0 days 00:01:13.166000,2016,7,Canadian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,8.0,8,9.0,,+1 Lap,4.0,69.0,9.0,0 days 00:01:14.663000,0 days 00:01:14.166000,0 days 00:01:13.952000,2016,7,Canadian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,9.0,9,20.0,,+1 Lap,2.0,69.0,16.0,0 days 00:01:14.714000,0 days 00:01:21.956000,,2016,7,Canadian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,10.0,10,11.0,,+1 Lap,1.0,69.0,11.0,0 days 00:01:14.814000,0 days 00:01:14.317000,,2016,7,Canadian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,11.0,11,10.0,,+1 Lap,0.0,69.0,10.0,0 days 00:01:15.026000,0 days 00:01:14.260000,0 days 00:01:14.338000,2016,7,Canadian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,12.0,12,15.0,,+1 Lap,0.0,69.0,13.0,0 days 00:01:14.829000,0 days 00:01:14.457000,,2016,7,Canadian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,13.0,13,13.0,,+2 Laps,0.0,68.0,14.0,0 days 00:01:15.148000,0 days 00:01:14.571000,,2016,7,Canadian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,14.0,14,14.0,,+2 Laps,0.0,68.0,15.0,0 days 00:01:15.444000,0 days 00:01:14.803000,,2016,7,Canadian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,21.0,,+2 Laps,0.0,68.0,19.0,0 days 00:01:15.635000,,,2016,7,Canadian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,16.0,16,22.0,,+2 Laps,0.0,68.0,,,,,2016,7,Canadian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,17.0,17,17.0,,+2 Laps,0.0,68.0,18.0,0 days 00:01:15.599000,,,2016,7,Canadian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,18.0,18,18.0,,+2 Laps,0.0,68.0,20.0,0 days 00:01:16.663000,,,2016,7,Canadian Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,19.0,19,19.0,,+2 Laps,0.0,68.0,21.0,0 days 00:01:17.052000,,,2016,7,Canadian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,20.0,R,8.0,,Retired,0.0,35.0,8.0,0 days 00:01:14.815000,0 days 00:01:13.864000,0 days 00:01:13.769000,2016,7,Canadian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,21.0,R,16.0,,Retired,0.0,16.0,17.0,0 days 00:01:15.459000,,,2016,7,Canadian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,22.0,R,12.0,,Power Unit,0.0,9.0,12.0,0 days 00:01:14.755000,0 days 00:01:14.437000,,2016,7,Canadian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,0 days 01:32:52.366000,Finished,25.0,51.0,1.0,0 days 00:01:43.685000,0 days 00:01:42.520000,0 days 00:01:42.758000,2016,8,European Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,2.0,2,3.0,0 days 00:00:16.696000,Finished,18.0,51.0,4.0,0 days 00:01:45.062000,0 days 00:01:44.461000,0 days 00:01:43.966000,2016,8,European Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,3.0,3,7.0,0 days 00:00:25.241000,Finished,15.0,51.0,2.0,0 days 00:01:44.462000,0 days 00:01:43.939000,0 days 00:01:43.515000,2016,8,European Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,4.0,0 days 00:00:33.102000,Finished,12.0,51.0,5.0,0 days 00:01:44.936000,0 days 00:01:44.533000,0 days 00:01:44.269000,2016,8,European Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,5.0,5,10.0,0 days 00:00:56.335000,Finished,10.0,51.0,10.0,0 days 00:01:44.259000,0 days 00:01:43.526000,0 days 00:02:01.954000,2016,8,European Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,6.0,6,8.0,0 days 00:01:00.886000,Finished,8.0,51.0,8.0,0 days 00:01:44.706000,0 days 00:01:44.477000,0 days 00:01:45.246000,2016,8,European Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,7.0,7,2.0,0 days 00:01:09.229000,Finished,6.0,51.0,3.0,0 days 00:01:44.570000,0 days 00:01:44.141000,0 days 00:01:43.966000,2016,8,European Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,8.0,8,9.0,0 days 00:01:10.696000,Finished,4.0,51.0,9.0,0 days 00:01:44.939000,0 days 00:01:44.387000,0 days 00:01:45.570000,2016,8,European Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,9.0,9,12.0,0 days 00:01:17.708000,Finished,2.0,51.0,12.0,0 days 00:01:44.860000,0 days 00:01:44.824000,,2016,8,European Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,10.0,10,5.0,0 days 00:01:25.375000,Finished,1.0,51.0,6.0,0 days 00:01:45.494000,0 days 00:01:44.696000,0 days 00:01:44.483000,2016,8,European Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,11.0,11,19.0,0 days 00:01:44.817000,Finished,0.0,51.0,19.0,0 days 00:01:45.804000,,,2016,8,European Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,12.0,12,15.0,,+1 Lap,0.0,50.0,16.0,0 days 00:01:45.549000,0 days 00:01:46.048000,,2016,8,European Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,11.0,,+1 Lap,0.0,50.0,11.0,0 days 00:01:45.507000,0 days 00:01:44.755000,,2016,8,European Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,22.0,,+1 Lap,0.0,50.0,21.0,0 days 00:01:46.348000,,,2016,8,European Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,15.0,15,21.0,,+1 Lap,0.0,50.0,22.0,0 days 00:01:46.394000,,,2016,8,European Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,16.0,16,14.0,,+1 Lap,0.0,50.0,15.0,0 days 00:01:45.300000,0 days 00:01:45.349000,,2016,8,European Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,17.0,17,20.0,,+1 Lap,0.0,50.0,20.0,0 days 00:01:46.231000,,,2016,8,European Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,18.0,18,16.0,,+2 Laps,0.0,49.0,17.0,0 days 00:01:45.665000,,,2016,8,European Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,19.0,R,13.0,,Gearbox,0.0,42.0,14.0,0 days 00:01:45.525000,0 days 00:01:45.270000,,2016,8,European Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,20.0,R,17.0,,Brakes,0.0,39.0,18.0,0 days 00:01:45.750000,,,2016,8,European Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,21.0,R,18.0,,Suspension,0.0,31.0,13.0,0 days 00:01:44.827000,0 days 00:01:45,,2016,8,European Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,22.0,R,6.0,,Suspension,0.0,6.0,7.0,0 days 00:01:44.694000,0 days 00:01:44.687000,0 days 00:01:44.717000,2016,8,European Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:27:38.107000,Finished,25.0,71.0,1.0,0 days 00:01:06.947000,0 days 00:01:06.228000,0 days 00:01:07.922000,2016,9,Austrian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,2.0,2,8.0,0 days 00:00:05.719000,Finished,18.0,71.0,9.0,0 days 00:01:07.131000,0 days 00:01:06.866000,0 days 00:01:11.153000,2016,9,Austrian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,3.0,3,4.0,0 days 00:00:06.024000,Finished,15.0,71.0,6.0,0 days 00:01:07.240000,0 days 00:01:06.940000,0 days 00:01:09.901000,2016,9,Austrian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,4.0,4,6.0,0 days 00:00:16.710000,Finished,12.0,71.0,2.0,0 days 00:01:06.516000,0 days 00:01:06.403000,0 days 00:01:08.465000,2016,9,Austrian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,5.0,0 days 00:00:30.981000,Finished,10.0,71.0,7.0,0 days 00:01:07.500000,0 days 00:01:06.840000,0 days 00:01:09.980000,2016,9,Austrian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,6.0,6,3.0,0 days 00:00:37.706000,Finished,8.0,71.0,5.0,0 days 00:01:07.653000,0 days 00:01:07.572000,0 days 00:01:09.900000,2016,9,Austrian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,7.0,7,13.0,0 days 00:00:44.668000,Finished,6.0,71.0,13.0,0 days 00:01:07.662000,0 days 00:01:07.850000,,2016,9,Austrian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,8.0,8,15.0,0 days 00:00:47.400000,Finished,4.0,71.0,15.0,0 days 00:01:07.618000,,,2016,9,Austrian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,9.0,9,7.0,,+1 Lap,2.0,70.0,8.0,0 days 00:01:07.148000,0 days 00:01:06.911000,0 days 00:01:10.440000,2016,9,Austrian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,10.0,10,12.0,,+1 Lap,1.0,70.0,12.0,0 days 00:01:07.565000,0 days 00:01:07.700000,,2016,9,Austrian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,11.0,11,11.0,,+1 Lap,0.0,70.0,11.0,0 days 00:01:07.660000,0 days 00:01:07.578000,,2016,9,Austrian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,12.0,12,19.0,,+1 Lap,0.0,70.0,18.0,0 days 00:01:07.965000,,,2016,9,Austrian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,13.0,13,21.0,,+1 Lap,0.0,70.0,22.0,0 days 00:01:08.446000,,,2016,9,Austrian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,17.0,,+1 Lap,0.0,70.0,17.0,0 days 00:01:07.941000,,,2016,9,Austrian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,18.0,,+1 Lap,0.0,70.0,21.0,0 days 00:01:08.418000,,,2016,9,Austrian Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,16.0,16,20.0,,+1 Lap,0.0,70.0,19.0,0 days 00:01:08.026000,,,2016,9,Austrian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,17.0,17,16.0,,Brakes,0.0,69.0,16.0,0 days 00:01:07.657000,,,2016,9,Austrian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,18.0,18,14.0,,Battery,0.0,64.0,14.0,0 days 00:01:07.671000,0 days 00:01:08.154000,,2016,9,Austrian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,19.0,19,2.0,,Brakes,0.0,64.0,3.0,0 days 00:01:07.385000,0 days 00:01:07.257000,0 days 00:01:09.285000,2016,9,Austrian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,20.0,20,0.0,,Brakes,0.0,63.0,10.0,0 days 00:01:07.419000,0 days 00:01:07.145000,0 days 00:01:11.977000,2016,9,Austrian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,21.0,R,9.0,,Tyre,0.0,26.0,4.0,0 days 00:01:06.761000,0 days 00:01:06.602000,0 days 00:01:09.781000,2016,9,Austrian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,22.0,R,0.0,,Retired,0.0,2.0,20.0,0 days 00:01:08.409000,,,2016,9,Austrian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:34:55.831000,Finished,25.0,52.0,1.0,0 days 00:01:30.739000,0 days 00:01:29.243000,0 days 00:01:29.287000,2016,10,British Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,0 days 00:00:08.250000,Finished,18.0,52.0,3.0,0 days 00:01:31.305000,0 days 00:01:30.697000,0 days 00:01:30.313000,2016,10,British Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,3.0,3,2.0,0 days 00:00:16.911000,Finished,15.0,52.0,2.0,0 days 00:01:30.724000,0 days 00:01:29.970000,0 days 00:01:29.606000,2016,10,British Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,4.0,4,4.0,0 days 00:00:26.211000,Finished,12.0,52.0,4.0,0 days 00:01:31.684000,0 days 00:01:31.319000,0 days 00:01:30.618000,2016,10,British Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,5.0,5,5.0,0 days 00:01:09.743000,Finished,10.0,52.0,5.0,0 days 00:01:31.326000,0 days 00:01:31.385000,0 days 00:01:30.881000,2016,10,British Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,6.0,6,10.0,0 days 00:01:16.941000,Finished,8.0,52.0,11.0,0 days 00:01:32.336000,0 days 00:01:31.875000,,2016,10,British Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,8.0,0 days 00:01:17.712000,Finished,6.0,52.0,9.0,0 days 00:01:32.349000,0 days 00:01:31.770000,0 days 00:01:32.172000,2016,10,British Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,8.0,8,7.0,0 days 00:01:25.858000,Finished,4.0,52.0,8.0,0 days 00:01:32.115000,0 days 00:01:31.708000,0 days 00:01:31.989000,2016,10,British Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,9.0,9,11.0,0 days 00:01:31.654000,Finished,2.0,52.0,6.0,0 days 00:01:31.606000,0 days 00:01:30.711000,0 days 00:01:31.490000,2016,10,British Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,10.0,10,15.0,0 days 00:01:32.600000,Finished,1.0,52.0,15.0,0 days 00:01:32.553000,0 days 00:01:32.306000,,2016,10,British Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,11.0,11,12.0,,+1 Lap,0.0,51.0,12.0,0 days 00:01:32.146000,0 days 00:01:32.002000,,2016,10,British Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,12.0,12,17.0,,+1 Lap,0.0,51.0,17.0,0 days 00:01:32.788000,,,2016,10,British Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,13.0,13,9.0,,+1 Lap,0.0,51.0,10.0,0 days 00:01:32.281000,0 days 00:01:31.740000,0 days 00:01:32.343000,2016,10,British Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,14.0,14,6.0,,+1 Lap,0.0,51.0,7.0,0 days 00:01:31.913000,0 days 00:01:31.478000,0 days 00:01:31.557000,2016,10,British Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,15.0,15,21.0,,+1 Lap,0.0,51.0,21.0,0 days 00:01:33.544000,,,2016,10,British Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,16.0,16,14.0,,+1 Lap,0.0,51.0,14.0,0 days 00:01:32.237000,0 days 00:01:32.241000,,2016,10,British Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,17.0,17,16.0,,Gearbox,0.0,49.0,16.0,0 days 00:01:32.729000,0 days 00:01:37.060000,,2016,10,British Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,18.0,R,18.0,,Gearbox,0.0,37.0,18.0,0 days 00:01:32.905000,,,2016,10,British Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,19.0,R,19.0,,Spun off,0.0,24.0,19.0,0 days 00:01:33.098000,,,2016,10,British Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,R,13.0,,Retired,0.0,17.0,13.0,0 days 00:01:32.283000,0 days 00:01:32.050000,,2016,10,British Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,21.0,R,22.0,,Power Unit,0.0,11.0,,,,,2016,10,British Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,22.0,R,20.0,,Spun off,0.0,6.0,20.0,0 days 00:01:33.151000,,,2016,10,British Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,0 days 01:40:30.115000,Finished,25.0,70.0,2.0,0 days 00:01:34.210000,0 days 00:01:24.836000,0 days 00:01:20.108000,2016,11,Hungarian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,1.0,0 days 00:00:01.977000,Finished,18.0,70.0,1.0,0 days 00:01:33.302000,0 days 00:01:22.806000,0 days 00:01:19.965000,2016,11,Hungarian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,3.0,0 days 00:00:27.539000,Finished,15.0,70.0,3.0,0 days 00:01:39.968000,0 days 00:01:23.234000,0 days 00:01:20.280000,2016,11,Hungarian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,5.0,0 days 00:00:28.213000,Finished,12.0,70.0,5.0,0 days 00:01:35.718000,0 days 00:01:24.082000,0 days 00:01:20.874000,2016,11,Hungarian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,5.0,5,4.0,0 days 00:00:48.659000,Finished,10.0,70.0,4.0,0 days 00:01:40.424000,0 days 00:01:22.660000,0 days 00:01:20.557000,2016,11,Hungarian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,14.0,0 days 00:00:49.044000,Finished,8.0,70.0,14.0,0 days 00:01:36.853000,0 days 00:01:25.435000,,2016,11,Hungarian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,7.0,,+1 Lap,6.0,69.0,7.0,0 days 00:01:35.165000,0 days 00:01:23.816000,0 days 00:01:21.211000,2016,11,Hungarian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,8.0,8,6.0,,+1 Lap,4.0,69.0,6.0,0 days 00:01:36.115000,0 days 00:01:24.734000,0 days 00:01:21.131000,2016,11,Hungarian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,9.0,9,10.0,,+1 Lap,2.0,69.0,10.0,0 days 00:01:42.758000,0 days 00:01:24.506000,0 days 00:01:22.182000,2016,11,Hungarian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,10.0,10,9.0,,+1 Lap,1.0,69.0,9.0,0 days 00:01:41.471000,0 days 00:01:23.901000,0 days 00:01:21.823000,2016,11,Hungarian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,11.0,11,13.0,,+1 Lap,0.0,69.0,13.0,0 days 00:01:41.411000,0 days 00:01:25.416000,,2016,11,Hungarian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,12.0,12,17.0,,+1 Lap,0.0,69.0,17.0,0 days 00:01:43.965000,,,2016,11,Hungarian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,13.0,13,15.0,,+1 Lap,0.0,69.0,15.0,0 days 00:01:38.959000,0 days 00:01:26.189000,,2016,11,Hungarian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,14.0,14,11.0,,+1 Lap,0.0,69.0,11.0,0 days 00:01:35.906000,0 days 00:01:24.941000,,2016,11,Hungarian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,15.0,15,19.0,,+1 Lap,0.0,69.0,19.0,0 days 00:01:44.543000,,,2016,11,Hungarian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,16.0,16,12.0,,+1 Lap,0.0,69.0,12.0,0 days 00:01:36.714000,0 days 00:01:25.301000,,2016,11,Hungarian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,17.0,17,16.0,,+1 Lap,0.0,69.0,16.0,0 days 00:01:37.772000,0 days 00:01:27.063000,,2016,11,Hungarian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,18.0,18,18.0,,+2 Laps,0.0,68.0,18.0,0 days 00:01:43.999000,,,2016,11,Hungarian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,19.0,19,20.0,,+2 Laps,0.0,68.0,21.0,0 days 00:01:47.343000,,,2016,11,Hungarian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,20.0,20,22.0,,+2 Laps,0.0,68.0,20.0,0 days 00:01:46.984000,,,2016,11,Hungarian Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,21.0,21,21.0,,+2 Laps,0.0,68.0,22.0,0 days 00:01:50.189000,,,2016,11,Hungarian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,22.0,R,8.0,,Oil leak,0.0,60.0,8.0,0 days 00:01:37.983000,0 days 00:01:24.456000,0 days 00:01:21.597000,2016,11,Hungarian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,2.0,0 days 01:30:44.200000,Finished,25.0,67.0,2.0,0 days 00:01:15.243000,0 days 00:01:14.748000,0 days 00:01:14.470000,2016,12,German Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,2.0,2,3.0,0 days 00:00:06.996000,Finished,18.0,67.0,3.0,0 days 00:01:15.591000,0 days 00:01:15.545000,0 days 00:01:14.726000,2016,12,German Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,3.0,3,4.0,0 days 00:00:13.413000,Finished,15.0,67.0,4.0,0 days 00:01:15.875000,0 days 00:01:15.124000,0 days 00:01:14.834000,2016,12,German Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,4.0,4,1.0,0 days 00:00:15.845000,Finished,12.0,67.0,1.0,0 days 00:01:15.485000,0 days 00:01:14.839000,0 days 00:01:14.363000,2016,12,German Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,6.0,0 days 00:00:32.570000,Finished,10.0,67.0,6.0,0 days 00:01:15.927000,0 days 00:01:15.630000,0 days 00:01:15.315000,2016,12,German Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,5.0,0 days 00:00:37.023000,Finished,8.0,67.0,5.0,0 days 00:01:15.752000,0 days 00:01:15.242000,0 days 00:01:15.142000,2016,12,German Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,8.0,0 days 00:01:10.049000,Finished,6.0,67.0,7.0,0 days 00:01:16.301000,0 days 00:01:15.623000,0 days 00:01:15.510000,2016,12,German Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,8.0,8,12.0,,+1 Lap,4.0,66.0,12.0,0 days 00:01:16.172000,0 days 00:01:15.909000,,2016,12,German Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,9.0,9,7.0,,+1 Lap,2.0,66.0,8.0,0 days 00:01:15.952000,0 days 00:01:15.490000,0 days 00:01:15.530000,2016,12,German Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,10.0,10,9.0,,+1 Lap,1.0,66.0,9.0,0 days 00:01:16.169000,0 days 00:01:15.500000,0 days 00:01:15.537000,2016,12,German Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,11.0,11,11.0,,+1 Lap,0.0,66.0,11.0,0 days 00:01:15.987000,0 days 00:01:15.883000,,2016,12,German Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,12.0,12,13.0,,+1 Lap,0.0,66.0,14.0,0 days 00:01:16.338000,0 days 00:01:16.041000,,2016,12,German Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,20.0,,+1 Lap,0.0,66.0,15.0,0 days 00:01:16.328000,0 days 00:01:16.086000,,2016,12,German Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,14.0,14,15.0,,+1 Lap,0.0,66.0,13.0,0 days 00:01:16.317000,0 days 00:01:15.989000,,2016,12,German Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,15.0,15,18.0,,+1 Lap,0.0,66.0,19.0,0 days 00:01:16.876000,,,2016,12,German Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,16.0,16,16.0,,+1 Lap,0.0,66.0,17.0,0 days 00:01:16.716000,,,2016,12,German Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,17.0,17,17.0,,+2 Laps,0.0,65.0,18.0,0 days 00:01:16.717000,,,2016,12,German Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,18.0,18,22.0,,+2 Laps,0.0,65.0,22.0,0 days 00:01:17.238000,,,2016,12,German Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,19.0,19,14.0,,+2 Laps,0.0,65.0,16.0,0 days 00:01:16.636000,0 days 00:01:16.665000,,2016,12,German Grand Prix
+88,HAR,haryanto,Manor Marussia,manor,Rio,Haryanto,Rio Haryanto,20.0,20,19.0,,+2 Laps,0.0,65.0,20.0,0 days 00:01:16.977000,,,2016,12,German Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,21.0,R,21.0,,Power Unit,0.0,57.0,21.0,0 days 00:01:17.123000,,,2016,12,German Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,22.0,R,10.0,,Suspension,0.0,36.0,10.0,0 days 00:01:16.503000,0 days 00:01:15.699000,0 days 00:01:15.615000,2016,12,German Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,0 days 01:44:51.058000,Finished,25.0,44.0,1.0,0 days 00:01:48.019000,0 days 00:01:46.999000,0 days 00:01:46.744000,2016,13,Belgian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,2.0,2,5.0,0 days 00:00:14.113000,Finished,18.0,44.0,5.0,0 days 00:01:48.407000,0 days 00:01:48.027000,0 days 00:01:47.216000,2016,13,Belgian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,21.0,0 days 00:00:27.634000,Finished,15.0,44.0,21.0,0 days 00:01:50.033000,,,2016,13,Belgian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,4.0,4,7.0,0 days 00:00:35.907000,Finished,12.0,44.0,7.0,0 days 00:01:48.080000,0 days 00:01:47.317000,0 days 00:01:47.543000,2016,13,Belgian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,5.0,5,6.0,0 days 00:00:40.660000,Finished,10.0,44.0,6.0,0 days 00:01:48.106000,0 days 00:01:47.485000,0 days 00:01:47.407000,2016,13,Belgian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,6.0,6,4.0,0 days 00:00:45.394000,Finished,8.0,44.0,4.0,0 days 00:01:47.802000,0 days 00:01:47.944000,0 days 00:01:47.108000,2016,13,Belgian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,22.0,0 days 00:00:59.445000,Finished,6.0,44.0,,,,,2016,13,Belgian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,8.0,8,8.0,0 days 00:01:00.151000,Finished,4.0,44.0,8.0,0 days 00:01:48.655000,0 days 00:01:47.918000,0 days 00:01:47.612000,2016,13,Belgian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,9.0,9,3.0,0 days 00:01:01.109000,Finished,2.0,44.0,3.0,0 days 00:01:47.912000,0 days 00:01:47.664000,0 days 00:01:46.910000,2016,13,Belgian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,10.0,10,10.0,0 days 00:01:05.873000,Finished,1.0,44.0,10.0,0 days 00:01:47.738000,0 days 00:01:47.667000,0 days 00:01:48.263000,2016,13,Belgian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,11.0,11,2.0,0 days 00:01:11.138000,Finished,0.0,44.0,2.0,0 days 00:01:48.407000,0 days 00:01:47.163000,0 days 00:01:46.893000,2016,13,Belgian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,12.0,12,18.0,0 days 00:01:13.877000,Finished,0.0,44.0,13.0,0 days 00:01:48.748000,0 days 00:01:48.598000,,2016,13,Belgian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,13.0,13,11.0,0 days 00:01:16.474000,Finished,0.0,44.0,11.0,0 days 00:01:48.751000,0 days 00:01:48.316000,,2016,13,Belgian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,14.0,14,19.0,0 days 00:01:27.097000,Finished,0.0,44.0,19.0,0 days 00:01:49.058000,,,2016,13,Belgian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,15.0,15,13.0,0 days 00:01:33.165000,Finished,0.0,44.0,14.0,0 days 00:01:48.901000,0 days 00:01:48.888000,,2016,13,Belgian Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,16.0,16,17.0,,+1 Lap,0.0,43.0,18.0,0 days 00:01:49.050000,,,2016,13,Belgian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,17.0,17,16.0,,+1 Lap,0.0,43.0,17.0,0 days 00:01:48.949000,,,2016,13,Belgian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,18.0,R,12.0,,Accident,0.0,5.0,12.0,0 days 00:01:48.800000,0 days 00:01:48.485000,,2016,13,Belgian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,19.0,R,20.0,,Gearbox,0.0,3.0,20.0,0 days 00:01:49.071000,,,2016,13,Belgian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,20.0,R,14.0,,Puncture,0.0,1.0,15.0,0 days 00:01:48.876000,0 days 00:01:49.038000,,2016,13,Belgian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,21.0,R,9.0,,Collision damage,0.0,1.0,9.0,0 days 00:01:48.700000,0 days 00:01:48.051000,0 days 00:01:48.114000,2016,13,Belgian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,22.0,R,15.0,,Collision damage,0.0,0.0,16.0,0 days 00:01:48.554000,0 days 00:01:49.320000,,2016,13,Belgian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,2.0,0 days 01:17:28.089000,Finished,25.0,53.0,2.0,0 days 00:01:22.497000,0 days 00:01:21.809000,0 days 00:01:21.613000,2016,14,Italian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,2.0,2,1.0,0 days 00:00:15.070000,Finished,18.0,53.0,1.0,0 days 00:01:21.854000,0 days 00:01:21.498000,0 days 00:01:21.135000,2016,14,Italian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,3.0,0 days 00:00:20.990000,Finished,15.0,53.0,3.0,0 days 00:01:23.077000,0 days 00:01:22.275000,0 days 00:01:21.972000,2016,14,Italian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,4.0,0 days 00:00:27.561000,Finished,12.0,53.0,4.0,0 days 00:01:23.217000,0 days 00:01:22.568000,0 days 00:01:22.065000,2016,14,Italian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,6.0,0 days 00:00:45.295000,Finished,10.0,53.0,6.0,0 days 00:01:23.158000,0 days 00:01:22.638000,0 days 00:01:22.389000,2016,14,Italian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,6.0,6,5.0,0 days 00:00:51.015000,Finished,8.0,53.0,5.0,0 days 00:01:23.264000,0 days 00:01:22.499000,0 days 00:01:22.388000,2016,14,Italian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,7.0,7,7.0,0 days 00:00:54.236000,Finished,6.0,53.0,7.0,0 days 00:01:23.229000,0 days 00:01:22.857000,0 days 00:01:22.411000,2016,14,Italian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,8.0,0 days 00:01:04.954000,Finished,4.0,53.0,8.0,0 days 00:01:23.439000,0 days 00:01:22.922000,0 days 00:01:22.814000,2016,14,Italian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,11.0,0 days 00:01:05.617000,Finished,2.0,53.0,11.0,0 days 00:01:23.489000,0 days 00:01:22.967000,,2016,14,Italian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,10.0,10,9.0,0 days 00:01:18.656000,Finished,1.0,53.0,9.0,0 days 00:01:23.259000,0 days 00:01:22.951000,0 days 00:01:22.836000,2016,14,Italian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,17.0,,+1 Lap,0.0,52.0,12.0,0 days 00:01:23.421000,0 days 00:01:23.092000,,2016,14,Italian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,12.0,12,14.0,,+1 Lap,0.0,52.0,15.0,0 days 00:01:23.666000,0 days 00:01:23.399000,,2016,14,Italian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,13.0,13,10.0,,+1 Lap,0.0,52.0,10.0,0 days 00:01:23.386000,0 days 00:01:22.856000,0 days 00:01:23.184000,2016,14,Italian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,14.0,14,12.0,,+1 Lap,0.0,52.0,13.0,0 days 00:01:23.783000,0 days 00:01:23.273000,,2016,14,Italian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,15.0,15,15.0,,+1 Lap,0.0,52.0,16.0,0 days 00:01:23.661000,0 days 00:01:23.496000,,2016,14,Italian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,16.0,16,19.0,,+1 Lap,0.0,52.0,19.0,0 days 00:01:24.087000,,,2016,14,Italian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,17.0,17,21.0,,+1 Lap,0.0,52.0,21.0,0 days 00:01:24.436000,,,2016,14,Italian Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,18.0,18,22.0,,+2 Laps,0.0,51.0,,,,,2016,14,Italian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,19.0,R,16.0,,Battery,0.0,36.0,17.0,0 days 00:01:23.825000,,,2016,14,Italian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,20.0,R,13.0,,Oil leak,0.0,26.0,14.0,0 days 00:01:23.760000,0 days 00:01:23.315000,,2016,14,Italian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,21.0,R,20.0,,Collision damage,0.0,7.0,20.0,0 days 00:01:24.230000,,,2016,14,Italian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,22.0,R,18.0,,Collision damage,0.0,6.0,18.0,0 days 00:01:23.956000,,,2016,14,Italian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,0 days 01:55:48.950000,Finished,25.0,61.0,1.0,0 days 00:01:45.316000,0 days 00:01:43.020000,0 days 00:01:42.584000,2016,15,Singapore Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,2.0,2,2.0,0 days 00:00:00.488000,Finished,18.0,61.0,2.0,0 days 00:01:44.255000,0 days 00:01:43.933000,0 days 00:01:43.115000,2016,15,Singapore Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,3.0,0 days 00:00:08.038000,Finished,15.0,61.0,3.0,0 days 00:01:45.167000,0 days 00:01:43.471000,0 days 00:01:43.288000,2016,15,Singapore Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,5.0,0 days 00:00:10.219000,Finished,12.0,61.0,5.0,0 days 00:01:44.964000,0 days 00:01:44.159000,0 days 00:01:43.540000,2016,15,Singapore Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,22.0,0 days 00:00:27.694000,Finished,10.0,61.0,22.0,0 days 00:01:49.116000,,,2016,15,Singapore Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,6.0,6,4.0,0 days 00:01:11.197000,Finished,8.0,61.0,4.0,0 days 00:01:45.036000,0 days 00:01:44.112000,0 days 00:01:43.328000,2016,15,Singapore Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,9.0,0 days 00:01:29.198000,Finished,6.0,61.0,9.0,0 days 00:01:45.373000,0 days 00:01:44.653000,0 days 00:01:44.553000,2016,15,Singapore Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,17.0,0 days 00:01:51.062000,Finished,4.0,61.0,10.0,0 days 00:01:45.204000,0 days 00:01:44.703000,0 days 00:01:44.582000,2016,15,Singapore Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,9.0,9,7.0,0 days 00:01:51.557000,Finished,2.0,61.0,7.0,0 days 00:01:45.291000,0 days 00:01:44.475000,0 days 00:01:44.469000,2016,15,Singapore Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,10.0,10,15.0,0 days 00:01:59.952000,Finished,1.0,61.0,17.0,0 days 00:01:46.825000,,,2016,15,Singapore Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,11.0,11,13.0,,+1 Lap,0.0,60.0,14.0,0 days 00:01:45.465000,0 days 00:01:45.593000,,2016,15,Singapore Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,12.0,12,11.0,,+1 Lap,0.0,60.0,12.0,0 days 00:01:46.056000,0 days 00:01:44.991000,,2016,15,Singapore Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,13.0,13,16.0,,+1 Lap,0.0,60.0,18.0,0 days 00:01:46.860000,,,2016,15,Singapore Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,14.0,14,6.0,,+1 Lap,0.0,60.0,6.0,0 days 00:01:45.499000,0 days 00:01:44.493000,0 days 00:01:44.197000,2016,15,Singapore Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,15.0,15,18.0,,+1 Lap,0.0,60.0,19.0,0 days 00:01:46.960000,,,2016,15,Singapore Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,16.0,16,19.0,,+1 Lap,0.0,60.0,20.0,0 days 00:01:47.667000,,,2016,15,Singapore Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,17.0,17,14.0,,+1 Lap,0.0,60.0,16.0,0 days 00:01:46.427000,0 days 00:01:47.827000,,2016,15,Singapore Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,18.0,18,21.0,,+2 Laps,0.0,59.0,21.0,0 days 00:01:48.296000,,,2016,15,Singapore Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,19.0,R,12.0,,Brakes,0.0,43.0,13.0,0 days 00:01:45.262000,0 days 00:01:45.144000,,2016,15,Singapore Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,20.0,R,10.0,,Overheating,0.0,35.0,11.0,0 days 00:01:46.086000,0 days 00:01:44.740000,,2016,15,Singapore Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,21.0,R,8.0,,Collision,0.0,0.0,8.0,0 days 00:01:46.081000,0 days 00:01:44.737000,0 days 00:01:44.479000,2016,15,Singapore Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,22.0,W,20.0,,Withdrew,0.0,0.0,15.0,0 days 00:01:45.609000,0 days 00:01:45.723000,,2016,15,Singapore Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,1.0,1,4.0,0 days 01:37:12.776000,Finished,25.0,56.0,4.0,0 days 00:01:35.079000,0 days 00:01:33.888000,0 days 00:01:33.467000,2016,16,Malaysian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,0 days 00:00:02.443000,Finished,18.0,56.0,3.0,0 days 00:01:35.443000,0 days 00:01:33.775000,0 days 00:01:33.420000,2016,16,Malaysian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,3.0,3,2.0,0 days 00:00:25.516000,Finished,15.0,56.0,2.0,0 days 00:01:34.460000,0 days 00:01:33.609000,0 days 00:01:33.264000,2016,16,Malaysian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,4.0,4,6.0,0 days 00:00:28.785000,Finished,12.0,56.0,6.0,0 days 00:01:34.556000,0 days 00:01:33.903000,0 days 00:01:33.632000,2016,16,Malaysian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,5.0,5,11.0,0 days 00:01:01.582000,Finished,10.0,56.0,11.0,0 days 00:01:35.166000,0 days 00:01:34.577000,,2016,16,Malaysian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,6.0,6,7.0,0 days 00:01:03.794000,Finished,8.0,56.0,7.0,0 days 00:01:35.068000,0 days 00:01:34.538000,0 days 00:01:34.319000,2016,16,Malaysian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,7.0,7,22.0,0 days 00:01:05.205000,Finished,6.0,56.0,22.0,0 days 00:01:37.155000,,,2016,16,Malaysian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,8.0,8,8.0,0 days 00:01:14.062000,Finished,4.0,56.0,8.0,0 days 00:01:34.827000,0 days 00:01:34.441000,0 days 00:01:34.489000,2016,16,Malaysian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,9.0,9,9.0,0 days 00:01:21.816000,Finished,2.0,56.0,9.0,0 days 00:01:35.267000,0 days 00:01:34.431000,0 days 00:01:34.518000,2016,16,Malaysian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,10.0,10,19.0,0 days 00:01:35.466000,Finished,1.0,56.0,19.0,0 days 00:01:35.999000,,,2016,16,Malaysian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,11.0,11,16.0,0 days 00:01:38.878000,Finished,0.0,56.0,16.0,0 days 00:01:35.605000,0 days 00:01:35.374000,,2016,16,Malaysian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,12.0,12,17.0,,+1 Lap,0.0,55.0,17.0,0 days 00:01:35.816000,,,2016,16,Malaysian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,13.0,13,10.0,,+1 Lap,0.0,55.0,10.0,0 days 00:01:35.267000,0 days 00:01:34.422000,0 days 00:01:34.671000,2016,16,Malaysian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,14.0,14,15.0,,+1 Lap,0.0,55.0,15.0,0 days 00:01:35.695000,0 days 00:01:35.369000,,2016,16,Malaysian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,15.0,15,21.0,,+1 Lap,0.0,55.0,21.0,0 days 00:01:36.587000,,,2016,16,Malaysian Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,16.0,16,20.0,,+1 Lap,0.0,55.0,20.0,0 days 00:01:36.451000,,,2016,16,Malaysian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,17.0,R,18.0,,Brakes,0.0,46.0,18.0,0 days 00:01:35.949000,,,2016,16,Malaysian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,18.0,R,1.0,,Engine,0.0,40.0,1.0,0 days 00:01:34.444000,0 days 00:01:33.046000,0 days 00:01:32.850000,2016,16,Malaysian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,19.0,R,13.0,,Wheel nut,0.0,39.0,13.0,0 days 00:01:35.658000,0 days 00:01:35.097000,,2016,16,Malaysian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,20.0,R,14.0,,Power loss,0.0,17.0,14.0,0 days 00:01:35.593000,0 days 00:01:35.277000,,2016,16,Malaysian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,21.0,R,12.0,,Brakes,0.0,7.0,12.0,0 days 00:01:35.400000,0 days 00:01:35.001000,,2016,16,Malaysian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,22.0,R,5.0,,Collision,0.0,0.0,5.0,0 days 00:01:34.557000,0 days 00:01:33.972000,0 days 00:01:33.584000,2016,16,Malaysian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,1.0,1,1.0,0 days 01:26:43.333000,Finished,25.0,53.0,1.0,0 days 00:01:31.858000,0 days 00:01:30.714000,0 days 00:01:30.647000,2016,17,Japanese Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,2.0,2,3.0,0 days 00:00:04.978000,Finished,18.0,53.0,5.0,0 days 00:01:32.487000,0 days 00:01:31.489000,0 days 00:01:31.178000,2016,17,Japanese Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,3.0,3,2.0,0 days 00:00:05.776000,Finished,15.0,53.0,2.0,0 days 00:01:32.218000,0 days 00:01:31.129000,0 days 00:01:30.660000,2016,17,Japanese Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,6.0,0 days 00:00:20.269000,Finished,12.0,53.0,4.0,0 days 00:01:31.659000,0 days 00:01:31.227000,0 days 00:01:31.028000,2016,17,Japanese Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,5.0,5,8.0,0 days 00:00:28.370000,Finished,10.0,53.0,3.0,0 days 00:01:31.674000,0 days 00:01:31.406000,0 days 00:01:30.949000,2016,17,Japanese Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,6.0,6,4.0,0 days 00:00:33.941000,Finished,8.0,53.0,6.0,0 days 00:01:32.538000,0 days 00:01:31.719000,0 days 00:01:31.240000,2016,17,Japanese Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,7.0,7,5.0,0 days 00:00:57.495000,Finished,6.0,53.0,7.0,0 days 00:01:32.682000,0 days 00:01:32.237000,0 days 00:01:31.961000,2016,17,Japanese Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,8.0,8,9.0,0 days 00:00:59.177000,Finished,4.0,53.0,9.0,0 days 00:01:32.448000,0 days 00:01:32.200000,0 days 00:01:32.142000,2016,17,Japanese Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,12.0,0 days 00:01:37.763000,Finished,2.0,53.0,12.0,0 days 00:01:32.562000,0 days 00:01:32.380000,,2016,17,Japanese Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,10.0,10,11.0,0 days 00:01:38.323000,Finished,1.0,53.0,11.0,0 days 00:01:32.383000,0 days 00:01:32.315000,,2016,17,Japanese Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,7.0,0 days 00:01:39.254000,Finished,0.0,53.0,8.0,0 days 00:01:32.458000,0 days 00:01:32.176000,0 days 00:01:31.961000,2016,17,Japanese Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,12.0,12,16.0,,+1 Lap,0.0,52.0,16.0,0 days 00:01:32.796000,0 days 00:01:32.807000,,2016,17,Japanese Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,13.0,13,13.0,,+1 Lap,0.0,52.0,13.0,0 days 00:01:32.645000,0 days 00:01:32.623000,,2016,17,Japanese Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,17.0,,+1 Lap,0.0,52.0,18.0,0 days 00:01:33.023000,,,2016,17,Japanese Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,18.0,,+1 Lap,0.0,52.0,19.0,0 days 00:01:33.222000,,,2016,17,Japanese Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,16.0,16,15.0,,+1 Lap,0.0,52.0,15.0,0 days 00:01:32.819000,0 days 00:01:32.689000,,2016,17,Japanese Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,17.0,17,14.0,,+1 Lap,0.0,52.0,14.0,0 days 00:01:32.789000,0 days 00:01:32.685000,,2016,17,Japanese Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,18.0,18,22.0,,+1 Lap,0.0,52.0,17.0,0 days 00:01:32.851000,,,2016,17,Japanese Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,19.0,19,19.0,,+1 Lap,0.0,52.0,20.0,0 days 00:01:33.332000,,,2016,17,Japanese Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,20.0,20,10.0,,+1 Lap,0.0,52.0,10.0,0 days 00:01:32.620000,0 days 00:01:32.155000,0 days 00:01:32.547000,2016,17,Japanese Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,21.0,21,20.0,,+1 Lap,0.0,52.0,21.0,0 days 00:01:33.353000,,,2016,17,Japanese Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,22.0,22,21.0,,+1 Lap,0.0,52.0,22.0,0 days 00:01:33.561000,,,2016,17,Japanese Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:38:12.618000,Finished,25.0,56.0,1.0,0 days 00:01:36.296000,0 days 00:01:36.450000,0 days 00:01:34.999000,2016,18,United States Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,0 days 00:00:04.520000,Finished,18.0,56.0,2.0,0 days 00:01:36.397000,0 days 00:01:36.351000,0 days 00:01:35.215000,2016,18,United States Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,3.0,0 days 00:00:19.692000,Finished,15.0,56.0,3.0,0 days 00:01:36.759000,0 days 00:01:36.255000,0 days 00:01:35.509000,2016,18,United States Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,4.0,4,6.0,0 days 00:00:43.134000,Finished,12.0,56.0,6.0,0 days 00:01:37.151000,0 days 00:01:36.462000,0 days 00:01:36.358000,2016,18,United States Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,5.0,5,12.0,0 days 00:01:33.953000,Finished,10.0,56.0,12.0,0 days 00:01:37.913000,0 days 00:01:37.417000,,2016,18,United States Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,10.0,0 days 00:01:36.124000,Finished,8.0,56.0,10.0,0 days 00:01:37.744000,0 days 00:01:37.175000,0 days 00:01:37.326000,2016,18,United States Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,7.0,7,9.0,,+1 Lap,6.0,55.0,9.0,0 days 00:01:37.402000,0 days 00:01:37.214000,0 days 00:01:37.269000,2016,18,United States Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,11.0,,+1 Lap,4.0,55.0,11.0,0 days 00:01:37.345000,0 days 00:01:37.353000,,2016,18,United States Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,9.0,9,19.0,,+1 Lap,2.0,55.0,19.0,0 days 00:01:38.327000,,,2016,18,United States Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,10.0,10,17.0,,+1 Lap,1.0,55.0,17.0,0 days 00:01:38.308000,,,2016,18,United States Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,11.0,11,13.0,,+1 Lap,0.0,55.0,13.0,0 days 00:01:37.844000,0 days 00:01:37.480000,,2016,18,United States Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,12.0,12,18.0,,+1 Lap,0.0,55.0,18.0,0 days 00:01:38.317000,,,2016,18,United States Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,13.0,13,15.0,,+1 Lap,0.0,55.0,15.0,0 days 00:01:38.084000,0 days 00:01:37.935000,,2016,18,United States Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,14.0,14,16.0,,+1 Lap,0.0,55.0,16.0,0 days 00:01:38.040000,0 days 00:01:39.356000,,2016,18,United States Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,15.0,15,21.0,,+1 Lap,0.0,55.0,21.0,0 days 00:01:38.583000,,,2016,18,United States Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,16.0,16,8.0,,+1 Lap,0.0,55.0,8.0,0 days 00:01:37.456000,0 days 00:01:37.202000,0 days 00:01:37.116000,2016,18,United States Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,17.0,17,20.0,,+1 Lap,0.0,55.0,20.0,0 days 00:01:38.548000,,,2016,18,United States Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,18.0,18,22.0,,+2 Laps,0.0,54.0,22.0,0 days 00:01:38.806000,,,2016,18,United States Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,19.0,R,5.0,,Wheel,0.0,38.0,5.0,0 days 00:01:36.985000,0 days 00:01:36.584000,0 days 00:01:36.131000,2016,18,United States Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,20.0,R,4.0,,Gearbox,0.0,28.0,4.0,0 days 00:01:36.613000,0 days 00:01:36.857000,0 days 00:01:35.747000,2016,18,United States Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,21.0,R,14.0,,Brakes,0.0,16.0,14.0,0 days 00:01:38.053000,0 days 00:01:37.773000,,2016,18,United States Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,22.0,R,7.0,,Collision,0.0,1.0,7.0,0 days 00:01:36.950000,0 days 00:01:36.626000,0 days 00:01:36.628000,2016,18,United States Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:40:31.402000,Finished,25.0,71.0,1.0,0 days 00:01:19.447000,0 days 00:01:19.137000,0 days 00:01:18.704000,2016,19,Mexican Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,0 days 00:00:08.354000,Finished,18.0,71.0,2.0,0 days 00:01:19.996000,0 days 00:01:19.761000,0 days 00:01:18.958000,2016,19,Mexican Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,3.0,3,4.0,0 days 00:00:20.858000,Finished,15.0,71.0,4.0,0 days 00:01:19.713000,0 days 00:01:19.553000,0 days 00:01:19.133000,2016,19,Mexican Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,4.0,4,3.0,0 days 00:00:21.323000,Finished,12.0,71.0,3.0,0 days 00:01:19.874000,0 days 00:01:18.972000,0 days 00:01:19.054000,2016,19,Mexican Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,7.0,0 days 00:00:27.313000,Finished,10.0,71.0,7.0,0 days 00:01:19.865000,0 days 00:01:19.385000,0 days 00:01:19.381000,2016,19,Mexican Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,6.0,0 days 00:00:49.376000,Finished,8.0,71.0,6.0,0 days 00:01:19.554000,0 days 00:01:19.936000,0 days 00:01:19.376000,2016,19,Mexican Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,5.0,0 days 00:00:58.891000,Finished,6.0,71.0,5.0,0 days 00:01:20.599000,0 days 00:01:19.769000,0 days 00:01:19.330000,2016,19,Mexican Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,8.0,8,8.0,0 days 00:01:05.612000,Finished,4.0,71.0,8.0,0 days 00:01:20.338000,0 days 00:01:19.958000,0 days 00:01:19.551000,2016,19,Mexican Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,9.0,0 days 00:01:16.206000,Finished,2.0,71.0,9.0,0 days 00:01:20.423000,0 days 00:01:20.151000,0 days 00:01:20.032000,2016,19,Mexican Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,10.0,10,12.0,0 days 00:01:16.798000,Finished,1.0,71.0,12.0,0 days 00:01:20.308000,0 days 00:01:20.287000,,2016,19,Mexican Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,11.0,11,15.0,,+1 Lap,0.0,70.0,15.0,0 days 00:01:21.062000,0 days 00:01:21.536000,,2016,19,Mexican Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,12.0,12,13.0,,+1 Lap,0.0,70.0,13.0,0 days 00:01:21.333000,0 days 00:01:20.673000,,2016,19,Mexican Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,13.0,13,11.0,,+1 Lap,0.0,70.0,11.0,0 days 00:01:20.552000,0 days 00:01:20.282000,,2016,19,Mexican Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,14.0,14,21.0,,+1 Lap,0.0,70.0,,,,,2016,19,Mexican Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,15.0,15,19.0,,+1 Lap,0.0,70.0,19.0,0 days 00:01:21.692000,,,2016,19,Mexican Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,16.0,16,10.0,,+1 Lap,0.0,70.0,10.0,0 days 00:01:20.457000,0 days 00:01:20.169000,0 days 00:01:20.378000,2016,19,Mexican Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,17.0,17,14.0,,+1 Lap,0.0,70.0,14.0,0 days 00:01:21.254000,0 days 00:01:21.131000,,2016,19,Mexican Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,18.0,18,18.0,,+1 Lap,0.0,70.0,18.0,0 days 00:01:21.454000,,,2016,19,Mexican Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,19.0,19,17.0,,+1 Lap,0.0,70.0,17.0,0 days 00:01:21.401000,,,2016,19,Mexican Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,20.0,20,22.0,,+1 Lap,0.0,70.0,21.0,0 days 00:01:21.916000,,,2016,19,Mexican Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,21.0,21,20.0,,+2 Laps,0.0,69.0,20.0,0 days 00:01:21.881000,,,2016,19,Mexican Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,22.0,R,16.0,,Collision,0.0,0.0,16.0,0 days 00:01:21.363000,0 days 00:01:21.785000,,2016,19,Mexican Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 03:01:01.335000,Finished,25.0,71.0,1.0,0 days 00:01:11.511000,0 days 00:01:11.238000,0 days 00:01:10.736000,2016,20,Brazilian Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,0 days 00:00:11.455000,Finished,18.0,71.0,2.0,0 days 00:01:11.815000,0 days 00:01:11.373000,0 days 00:01:10.838000,2016,20,Brazilian Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,3.0,3,4.0,0 days 00:00:21.481000,Finished,15.0,71.0,4.0,0 days 00:01:11.957000,0 days 00:01:11.834000,0 days 00:01:11.485000,2016,20,Brazilian Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,4.0,4,9.0,0 days 00:00:25.346000,Finished,12.0,71.0,9.0,0 days 00:01:12.684000,0 days 00:01:12.331000,0 days 00:01:12.165000,2016,20,Brazilian Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,5.0,5,5.0,0 days 00:00:26.334000,Finished,10.0,71.0,5.0,0 days 00:01:12.159000,0 days 00:01:12.010000,0 days 00:01:11.495000,2016,20,Brazilian Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,6.0,6,15.0,0 days 00:00:29.160000,Finished,8.0,71.0,15.0,0 days 00:01:12.950000,0 days 00:01:12.920000,,2016,20,Brazilian Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,8.0,0 days 00:00:29.827000,Finished,6.0,71.0,8.0,0 days 00:01:12.428000,0 days 00:01:12.360000,0 days 00:01:12.104000,2016,20,Brazilian Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,8.0,8,6.0,0 days 00:00:30.486000,Finished,4.0,71.0,6.0,0 days 00:01:12.409000,0 days 00:01:12.047000,0 days 00:01:11.540000,2016,20,Brazilian Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,9.0,9,21.0,0 days 00:00:42.620000,Finished,2.0,71.0,22.0,0 days 00:01:13.681000,,,2016,20,Brazilian Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,10.0,10,10.0,0 days 00:00:44.432000,Finished,1.0,71.0,10.0,0 days 00:01:12.700000,0 days 00:01:12.312000,0 days 00:01:12.266000,2016,20,Brazilian Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,11.0,11,11.0,0 days 00:00:45.292000,Finished,0.0,71.0,11.0,0 days 00:01:12.680000,0 days 00:01:12.420000,,2016,20,Brazilian Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,12.0,12,22.0,0 days 00:00:45.809000,Finished,0.0,71.0,20.0,0 days 00:01:13.432000,,,2016,20,Brazilian Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,13.0,13,14.0,0 days 00:00:51.192000,Finished,0.0,71.0,14.0,0 days 00:01:13.071000,0 days 00:01:12.726000,,2016,20,Brazilian Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,14.0,14,18.0,0 days 00:00:51.555000,Finished,0.0,71.0,18.0,0 days 00:01:13.410000,,,2016,20,Brazilian Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,15.0,15,19.0,0 days 00:01:00.498000,Finished,0.0,71.0,19.0,0 days 00:01:13.427000,,,2016,20,Brazilian Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,16.0,16,17.0,0 days 00:01:21.994000,Finished,0.0,71.0,17.0,0 days 00:01:13.276000,,,2016,20,Brazilian Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,17.0,R,12.0,,Retired,0.0,60.0,12.0,0 days 00:01:13.052000,0 days 00:01:12.431000,,2016,20,Brazilian Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,18.0,R,13.0,,Collision,0.0,46.0,13.0,0 days 00:01:12.432000,0 days 00:01:12.521000,,2016,20,Brazilian Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,19.0,R,16.0,,Collision damage,0.0,20.0,16.0,0 days 00:01:13.259000,0 days 00:01:13.258000,,2016,20,Brazilian Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,20.0,R,3.0,,Collision,0.0,19.0,3.0,0 days 00:01:12.100000,0 days 00:01:12.301000,0 days 00:01:11.404000,2016,20,Brazilian Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,21.0,R,20.0,,Collision,0.0,11.0,21.0,0 days 00:01:13.623000,,,2016,20,Brazilian Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,22.0,W,7.0,,Withdrew,0.0,0.0,7.0,0 days 00:01:12.893000,0 days 00:01:12.343000,0 days 00:01:11.937000,2016,20,Brazilian Grand Prix
+44,HAM,hamilton,Mercedes,mercedes,Lewis,Hamilton,Lewis Hamilton,1.0,1,1.0,0 days 01:38:04.013000,Finished,25.0,55.0,1.0,0 days 00:01:39.487000,0 days 00:01:39.382000,0 days 00:01:38.755000,2016,21,Abu Dhabi Grand Prix
+6,ROS,rosberg,Mercedes,mercedes,Nico,Rosberg,Nico Rosberg,2.0,2,2.0,0 days 00:00:00.439000,Finished,18.0,55.0,2.0,0 days 00:01:40.511000,0 days 00:01:39.490000,0 days 00:01:39.058000,2016,21,Abu Dhabi Grand Prix
+5,VET,vettel,Ferrari,ferrari,Sebastian,Vettel,Sebastian Vettel,3.0,3,5.0,0 days 00:00:00.843000,Finished,15.0,55.0,5.0,0 days 00:01:40.341000,0 days 00:01:40.034000,0 days 00:01:39.661000,2016,21,Abu Dhabi Grand Prix
+33,VER,max_verstappen,Red Bull,red_bull,Max,Verstappen,Max Verstappen,4.0,4,6.0,0 days 00:00:01.685000,Finished,12.0,55.0,6.0,0 days 00:01:40.424000,0 days 00:01:39.903000,0 days 00:01:39.818000,2016,21,Abu Dhabi Grand Prix
+3,RIC,ricciardo,Red Bull,red_bull,Daniel,Ricciardo,Daniel Ricciardo,5.0,5,3.0,0 days 00:00:05.315000,Finished,10.0,55.0,3.0,0 days 00:01:41.002000,0 days 00:01:40.429000,0 days 00:01:39.589000,2016,21,Abu Dhabi Grand Prix
+7,RAI,raikkonen,Ferrari,ferrari,Kimi,Räikkönen,Kimi Räikkönen,6.0,6,4.0,0 days 00:00:18.816000,Finished,8.0,55.0,4.0,0 days 00:01:40.338000,0 days 00:01:39.629000,0 days 00:01:39.604000,2016,21,Abu Dhabi Grand Prix
+27,HUL,hulkenberg,Force India,force_india,Nico,Hülkenberg,Nico Hülkenberg,7.0,7,7.0,0 days 00:00:50.114000,Finished,6.0,55.0,7.0,0 days 00:01:41,0 days 00:01:40.709000,0 days 00:01:40.501000,2016,21,Abu Dhabi Grand Prix
+11,PER,perez,Force India,force_india,Sergio,Pérez,Sergio Pérez,8.0,8,8.0,0 days 00:00:58.776000,Finished,4.0,55.0,8.0,0 days 00:01:40.864000,0 days 00:01:40.743000,0 days 00:01:40.519000,2016,21,Abu Dhabi Grand Prix
+19,MAS,massa,Williams,williams,Felipe,Massa,Felipe Massa,9.0,9,10.0,0 days 00:00:59.436000,Finished,2.0,55.0,10.0,0 days 00:01:41.157000,0 days 00:01:40.858000,0 days 00:01:41.213000,2016,21,Abu Dhabi Grand Prix
+14,ALO,alonso,McLaren,mclaren,Fernando,Alonso,Fernando Alonso,10.0,10,9.0,0 days 00:00:59.896000,Finished,1.0,55.0,9.0,0 days 00:01:41.616000,0 days 00:01:41.044000,0 days 00:01:41.106000,2016,21,Abu Dhabi Grand Prix
+8,GRO,grosjean,Haas F1 Team,haas,Romain,Grosjean,Romain Grosjean,11.0,11,14.0,0 days 00:01:16.777000,Finished,0.0,55.0,14.0,0 days 00:01:41.467000,0 days 00:01:41.564000,,2016,21,Abu Dhabi Grand Prix
+21,GUT,gutierrez,Haas F1 Team,haas,Esteban,Gutiérrez,Esteban Gutiérrez,12.0,12,13.0,0 days 00:01:35.113000,Finished,0.0,55.0,13.0,0 days 00:01:41.639000,0 days 00:01:41.480000,,2016,21,Abu Dhabi Grand Prix
+31,OCO,ocon,Manor Marussia,manor,Esteban,Ocon,Esteban Ocon,13.0,13,20.0,,+1 Lap,0.0,54.0,20.0,0 days 00:01:42.286000,,,2016,21,Abu Dhabi Grand Prix
+94,WEH,wehrlein,Manor Marussia,manor,Pascal,Wehrlein,Pascal Wehrlein,14.0,14,16.0,,+1 Lap,0.0,54.0,16.0,0 days 00:01:41.886000,0 days 00:01:41.995000,,2016,21,Abu Dhabi Grand Prix
+9,ERI,ericsson,Sauber,sauber,Marcus,Ericsson,Marcus Ericsson,15.0,15,22.0,,+1 Lap,0.0,54.0,22.0,0 days 00:01:42.637000,,,2016,21,Abu Dhabi Grand Prix
+12,NAS,nasr,Sauber,sauber,Felipe,Nasr,Felipe Nasr,16.0,16,19.0,,+1 Lap,0.0,54.0,19.0,0 days 00:01:42.247000,,,2016,21,Abu Dhabi Grand Prix
+30,PAL,jolyon_palmer,Renault,renault,Jolyon,Palmer,Jolyon Palmer,17.0,17,15.0,,+1 Lap,0.0,54.0,15.0,0 days 00:01:41.775000,0 days 00:01:41.820000,,2016,21,Abu Dhabi Grand Prix
+55,SAI,sainz,Toro Rosso,toro_rosso,Carlos,Sainz,Carlos Sainz,18.0,R,21.0,,Collision damage,0.0,41.0,21.0,0 days 00:01:42.393000,,,2016,21,Abu Dhabi Grand Prix
+26,KVY,kvyat,Toro Rosso,toro_rosso,Daniil,Kvyat,Daniil Kvyat,19.0,R,17.0,,Gearbox,0.0,14.0,17.0,0 days 00:01:42.003000,,,2016,21,Abu Dhabi Grand Prix
+22,BUT,button,McLaren,mclaren,Jenson,Button,Jenson Button,20.0,R,12.0,,Suspension,0.0,12.0,12.0,0 days 00:01:41.158000,0 days 00:01:41.272000,,2016,21,Abu Dhabi Grand Prix
+77,BOT,bottas,Williams,williams,Valtteri,Bottas,Valtteri Bottas,21.0,R,11.0,,Suspension,0.0,6.0,11.0,0 days 00:01:41.192000,0 days 00:01:41.084000,,2016,21,Abu Dhabi Grand Prix
+20,MAG,kevin_magnussen,Renault,renault,Kevin,Magnussen,Kevin Magnussen,22.0,R,18.0,,Suspension,0.0,5.0,18.0,0 days 00:01:42.142000,,,2016,21,Abu Dhabi Grand Prix
