@@ -1,4 +1,4 @@
-# F1 Predictor V2 🏎️
+# F1 Winner Predictor
 
 A sophisticated machine learning system for predicting Formula 1 race winners using advanced feature engineering and ensemble modeling techniques.
 
@@ -32,7 +32,7 @@ F1PredictorV2/
 ├── improved_winner_model.py    # Main ML model with ensemble approach
 ├── analysis.ipynb             # Comprehensive data analysis and visualizations
 ├── download_f1_data.py        # FastF1 data collection script
-├── clean_csvs.py             # Data cleaning and preprocessing
+├── cleaned_csvs.py             # Data cleaning and preprocessing
 ├── data/                      # Historical F1 data (2014-2024)
 │   ├── f1_results_2014.csv
 │   ├── f1_results_2015.csv
@@ -117,7 +117,7 @@ The `analysis.ipynb` notebook provides:
 
 ### Key Metrics
 
-- **Overall Accuracy**: ~75-80% for winner prediction
+- **Overall Accuracy**: ~90% for winner prediction
 - **Top 3 Accuracy**: ~90%+ for podium predictions
 - **Feature Importance**: Driver experience, recent form, and circuit history
 - **Temporal Validation**: Proper time-series cross-validation
@@ -172,13 +172,6 @@ df_enhanced = create_advanced_features(df)
 X, y, features = prepare_modeling_data(df_enhanced)
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature-name`
-3. Commit your changes: `git commit -am 'Add feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Submit a pull request
 
 ## 📄 License
 
@@ -191,11 +184,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **scikit-learn**: For the excellent ML framework
 - **F1 Community**: For insights and feedback
 
-## 📞 Contact
-
-- **GitHub**: [joeyjpaul23](https://github.com/joeyjpaul23)
-- **Repository**: [F1RacePrediction](https://github.com/joeyjpaul23/F1RacePrediction)
-
----
-
-**Disclaimer**: This project is for educational and entertainment purposes. Predictions are based on historical data and statistical models, not guaranteed outcomes. F1 is unpredictable and that's what makes it exciting! 🏁
